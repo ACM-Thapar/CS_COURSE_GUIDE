@@ -11,7 +11,8 @@ Flutter Guide
 ### Table of Contents
 
 - [What is Flutter](#what-is-flutter)
-- [Youtube Channels to Subscribe](#youtube-channels-to-subscribe)
+- [How to begin](#how-to-begin)
+- [Youtube Channels to Subscribe](#youtube-channels-and-playlists)
 - [Good Bloggers to Follow ](#good-bloggers-to-follow)
 - [Other important websites](#other-important-websites)
 - [The Journey has Just Begun](#the-journey-has-just-begun)
@@ -41,7 +42,7 @@ The steps for the same to setup can be found [here](https://flutter.dev/docs/get
 
 #### Setup IDE
 
-**Note: This part is for setting up VS Code only and if one wants to use Android Studio only then th above link is sufficient**
+**Note: This part is for setting up VS Code only and if one wants to use Android Studio only then the above link is sufficient**
 
 Here are some link to help you setup 
 
@@ -49,4 +50,21 @@ Here are some link to help you setup
 
 - [For Windows](https://www.youtube.com/watch?v=OlswAb-CV8k)
 - [For MacOS](https://www.youtube.com/watch?v=U4TJ5ITGe5Y)
-- [For Linux(VScode Setup)](https://stackoverflow.com/questions/57693434/how-to-setup-flutter-app-in-vscode-in-ubuntu-and-set-up-emulator)
+- [For Linux (VScode Setup)](https://stackoverflow.com/questions/57693434/how-to-setup-flutter-app-in-vscode-in-ubuntu-and-set-up-emulator)
+
+## Youtube Channels and Playlists
+
+**Some Great platforms to learn flutter**
+
+- [Flutter](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
+- [london App breery](https://www.youtube.com/channel/UCVD5Vh9LhLBxp3o1vRNyf_w)
+- [Flutter By Google](https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr)
+- [Flutter Tutorial For Beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+- [Flutter Explained](https://www.youtube.com/user/Lionranger)
+- [Flutter Course (Free Course Camp)](https://www.youtube.com/watch?v=pTJJsmejUOQ)
+- [Flutter Crash Course (Traversy Media)](https://www.youtube.com/watch?v=1gDhl4leEzA)
+- [Dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
+
+
+
+
