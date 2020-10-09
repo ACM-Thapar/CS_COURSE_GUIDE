@@ -14,7 +14,7 @@ This study guide is inspired by ["A Study Plan to Cure JavaScript Fatigue"](http
 
 If you are familiar with front end development and have been consistently keeping up with the latest developments, this guide will probably not be that useful to you. It is targeted at newcomers to front end.
 
-If your company is exploring a modern JavaScript stack as well, you may find this study plan useful to your company too! Feel free to adapt it to your needs. We will update this study plan periodically, according to our latest work and choices.
+
 
 *- Grab Web Team*
 
