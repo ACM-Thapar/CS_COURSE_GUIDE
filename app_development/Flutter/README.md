@@ -1,3 +1,4 @@
+ <div align = "center">
 Flutter Guide
 ==
 
@@ -101,7 +102,7 @@ Congratulations on making it this far! Front end development today is hard, but 
 
 ## More Readings
 
-This part is cantains a set of few blogs which can come in handy while developing an App
+This part contains a set of few blogs which can come in handy while developing an App
 
 These are some of tht handpicked blogs which the Flutter Team of ACM Thapar uses to make the app better
 
@@ -117,6 +118,8 @@ These are some of tht handpicked blogs which the Flutter Team of ACM Thapar uses
 
 
  <div align = "center">
+
+<h1>ACM THAPAR</h1>
 
 <img height=200px src= "https://github.com/ACM-Thapar/CS_COURSE_GUIDE/blob/master/acm%20logo.png">
 
