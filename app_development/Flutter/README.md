@@ -1,7 +1,7 @@
  <div align = "center">
 <h1>Flutter Guide</h1>
 
-
+</div>
 [![Front End Developer Desk](https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png)](https://dribbble.com/shots/3577639-Isometric-Developer-Desk)
 
 **Pre-requisites**
