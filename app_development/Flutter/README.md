@@ -120,4 +120,4 @@ These are some of tht handpicked blogs which the Flutter Team of ACM Thapar uses
 
 <img height=200px src= "https://github.com/ACM-Thapar/CS_COURSE_GUIDE/blob/master/acm%20logo.png">
 
-<h1>CS_COURSE_GUIDE</h1>
+
