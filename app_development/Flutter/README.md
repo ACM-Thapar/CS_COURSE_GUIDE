@@ -16,6 +16,7 @@ Flutter Guide
 - [Some Good Blogs](#some-good-blogs)
 - [Best Flutter Blogs and Websites](#best-flutter-blogs-and-websites)
 - [Some Websites to solve doubts](#some-websites-to-solve-doubts)
+- [Best Course for beginners (ACM Suggestion)](#best-course-for-beginners)
 - [The Journey has Just Begun](#the-journey-has-just-begun)
 
 ## What is Flutter
@@ -89,3 +90,34 @@ Here are some good blogs which one can have a look to know about flutter and gen
 
 **P.S. : The best platform for every answer is Google**
 
+## Best Course for beginners (ACM Suggestion)
+
+- [Flutter & Dart - The Complete Guide [2020 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+
+## The Journey has Just begun
+
+
+Congratulations on making it this far! Front end development today is hard, but it is also more interesting than before. What we have covered so far will help any new engineer to ACM thapar's Flutter Team to get up to speed with our technologies pretty quickly. There are many more things to be learnt, but building up a solid foundation in the essentials will aid in learning the rest of the technologies.
+
+## More Readings
+
+This part is cantains a set of few blogs which can come in handy while developing an App
+
+These are some of tht handpicked blogs which the Flutter Team of ACM Thapar uses to make the app better
+
+**Only for those who are keen to work in flutter**
+
+ - [Convert Pixel Scaling into Percentage](https://medium.com/flutter-community/flutter-effectively-scale-ui-according-to-different-screen-sizes-2cb7c115ea0a)
+ - [To Create Custom Shaped UI Elements](https://medium.com/flutter-community/flutter-custom-clipper-28c6d380fdd6)
+ - [Using Firebase to create One to One Chat app](https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
+ - [Push Notification](https://medium.com/@duytq94/flutter-chat-app-extended-push-notification-messages-a26c669f4675)
+ - [Some Useful tools of Flutter](https://medium.com/@duytq94/flutter-chat-app-extended-push-notification-messages-a26c669f4675)
+ - [Search Functionality in Flutter](https://medium.com/flutter-community/search-as-you-type-in-flutter-e042168e6517)
+
+
+
+ <div align = "center">
+
+<img height=200px src= "https://github.com/ACM-Thapar/CS_COURSE_GUIDE/blob/master/acm%20logo.png">
+
+<h1>CS_COURSE_GUIDE</h1>
