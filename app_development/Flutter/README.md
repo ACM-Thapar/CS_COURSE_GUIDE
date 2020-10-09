@@ -13,8 +13,9 @@ Flutter Guide
 - [What is Flutter](#what-is-flutter)
 - [How to begin](#how-to-begin)
 - [Youtube Channels to Subscribe](#youtube-channels-and-playlists)
-- [Good Bloggers to Follow ](#good-bloggers-to-follow)
-- [Other important websites](#other-important-websites)
+- [Some Good Blogs](#some-good-blogs)
+- [Best Flutter Blogs and Websites](#best-flutter-blogs-and-websites)
+- [Some Websites to solve doubts](#some-websites-to-solve-doubts)
 - [The Journey has Just Begun](#the-journey-has-just-begun)
 
 ## What is Flutter
@@ -57,7 +58,7 @@ Here are some link to help you setup
 **Some Great platforms to learn flutter**
 
 - [Flutter](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
-- [london App breery](https://www.youtube.com/channel/UCVD5Vh9LhLBxp3o1vRNyf_w)
+- [London App brewery](https://www.youtube.com/channel/UCVD5Vh9LhLBxp3o1vRNyf_w)
 - [Flutter By Google](https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr)
 - [Flutter Tutorial For Beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 - [Flutter Explained](https://www.youtube.com/user/Lionranger)
@@ -65,6 +66,26 @@ Here are some link to help you setup
 - [Flutter Crash Course (Traversy Media)](https://www.youtube.com/watch?v=1gDhl4leEzA)
 - [Dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
 
+## Some Good Blogs
 
+Here are some good blogs which one can have a look to know about flutter and generate interest in this wonderful tool and make great apps
 
+- [Flutter Dev](https://flutter.dev/docs/resources/faq)
+- [Flutter](https://medium.com/flutter)
+- [Flutter Introduction](https://www.tutorialspoint.com/flutter/flutter_introduction.htm)
+- [Reasons Why Flutter is Setting the Trend in Mobile App Development?](https://medium.com/flutter-community/reasons-why-flutter-is-setting-the-trend-in-mobile-app-development-4aa707532fb)
+- [What is Flutter? Here is everything you should know](https://medium.com/@concisesoftware/what-is-flutter-here-is-everything-you-should-know-faed3836253f)
+
+## Best Flutter Blogs and Websites
+
+- [Flutter Medium](https://medium.com/flutter)
+- [Flutter- DEV community](https://dev.to/t/flutter)
+
+## Some Websites to solve doubts
+
+- [Stack Overflow](https://stackoverflow.com/)
+- [Medium](https://medium.com/)
+- [Flutter Dev](https://flutter.dev/)
+
+**P.S. : The best platform for every answer is Google**
 
