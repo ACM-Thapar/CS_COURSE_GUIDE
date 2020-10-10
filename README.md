@@ -2,6 +2,7 @@
 
 
 <img height=200px src= "https://github.com/ACM-Thapar/CS_COURSE_GUIDE/blob/master/acm%20logo.png">
+</div>
 
 <h1>CS_COURSE_GUIDE</h1>
 
