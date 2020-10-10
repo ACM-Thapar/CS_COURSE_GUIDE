@@ -12,11 +12,11 @@ Flutter Guide
 ### Table of Contents
 
 - [What is Flutter](#what-is-flutter)
+- [Some Good Blogs(Must Read)](#some-good-blogs)
 - [How to begin](#how-to-begin)
 - [Best Course for beginners (ACM Suggestion)](#best-course-for-beginners)
 - [Some sample projects](#some-sample-projects)
 - [Youtube Channels to Subscribe](#youtube-channels-and-playlists)
-- [Some Good Blogs(Must Read)](#some-good-blogs)
 - [Best Flutter Blogs and Websites](#best-flutter-blogs-and-websites)
 - [Some Websites to solve doubts](#some-websites-to-solve-doubts)
 - [The Journey has Just Begun](#the-journey-has-just-begun)
@@ -36,6 +36,20 @@ If you know a bit of programming, Dart is a typed object programming language. Y
 
 Flutter is now the top 11 software repos based on GitHub stars. Moreover, we’ve already seen thousands of Flutter apps being published on app stores. One of the most notable examples is the Xianyu app created by the Alibaba team, used by over 50 million people.
 
+
+
+
+## Some Good Blogs (Must Read)
+
+Here are some good blogs which one can have a look to know about flutter and generate interest in this wonderful tool and make great apps
+
+- [Flutter Dev](https://flutter.dev/docs/resources/faq)
+- [Flutter](https://medium.com/flutter)
+- [Flutter Introduction](https://www.tutorialspoint.com/flutter/flutter_introduction.htm)
+- [Reasons Why Flutter is Setting the Trend in Mobile App Development?](https://medium.com/flutter-community/reasons-why-flutter-is-setting-the-trend-in-mobile-app-development-4aa707532fb)
+- [What is Flutter? Here is everything you should know](https://medium.com/@concisesoftware/what-is-flutter-here-is-everything-you-should-know-faed3836253f)
+
+
 ## How to begin 
 
 #### Choose an OS
@@ -44,13 +58,13 @@ One can do flutter development on any OS either it be Windows, macOS, or Linux.
 
 The steps for the same to setup can be found [here](https://flutter.dev/docs/get-started/install)
 
-#### Setup IDE
+    Setup IDE
 
 **Note: This part is for setting up VS Code only and if one wants to use Android Studio only then the above link is sufficient**
 
 Here are some link to help you setup 
 
-## Visual Studio Code  
+    Visual Studio Code Flutter Setup
 
 - [For Windows](https://www.youtube.com/watch?v=OlswAb-CV8k)
 - [For MacOS](https://www.youtube.com/watch?v=U4TJ5ITGe5Y)
@@ -72,6 +86,8 @@ Here are some link to help you setup
 
 ## Youtube Channels and Playlists
 
+<img alt="Redux Logo" src="https://i.insider.com/59a59a8d79bbfd1d008b601a?width=1200&format=jpeg" width="256px" />
+
 **Some Great platforms to learn flutter**
 
 - [Flutter](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
@@ -83,17 +99,9 @@ Here are some link to help you setup
 - [Flutter Crash Course (Traversy Media)](https://www.youtube.com/watch?v=1gDhl4leEzA)
 - [Dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
 
-## Some Good Blogs
-
-Here are some good blogs which one can have a look to know about flutter and generate interest in this wonderful tool and make great apps
-
-- [Flutter Dev](https://flutter.dev/docs/resources/faq)
-- [Flutter](https://medium.com/flutter)
-- [Flutter Introduction](https://www.tutorialspoint.com/flutter/flutter_introduction.htm)
-- [Reasons Why Flutter is Setting the Trend in Mobile App Development?](https://medium.com/flutter-community/reasons-why-flutter-is-setting-the-trend-in-mobile-app-development-4aa707532fb)
-- [What is Flutter? Here is everything you should know](https://medium.com/@concisesoftware/what-is-flutter-here-is-everything-you-should-know-faed3836253f)
-
 ## Best Flutter Blogs and Websites
+
+<img alt="Redux Logo" src="https://miro.medium.com/max/968/1*uLuWzCXfq2rt1t_TkuLB8A.png" width="256px" />
 
 - [Flutter Medium](https://medium.com/flutter)
 - [Flutter- DEV community](https://dev.to/t/flutter)
