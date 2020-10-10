@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "specter25",
+      "name": "Ujjwal Agarwal",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/56391382?v=4",
+      "profile": "https://github.com/specter25",
+      "contributions": [
+        "projectManagement",
+        "doc",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "CS_COURSE_GUIDE",
+  "projectOwner": "ACM-Thapar",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
