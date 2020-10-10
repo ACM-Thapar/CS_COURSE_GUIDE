@@ -13,11 +13,12 @@ Flutter Guide
 
 - [What is Flutter](#what-is-flutter)
 - [How to begin](#how-to-begin)
+- [Best Course for beginners (ACM Suggestion)](#best-course-for-beginners)
+- [Some sample projects](#some-sample-projects)
 - [Youtube Channels to Subscribe](#youtube-channels-and-playlists)
-- [Some Good Blogs](#some-good-blogs)
+- [Some Good Blogs(Must Read)](#some-good-blogs)
 - [Best Flutter Blogs and Websites](#best-flutter-blogs-and-websites)
 - [Some Websites to solve doubts](#some-websites-to-solve-doubts)
-- [Best Course for beginners (ACM Suggestion)](#best-course-for-beginners)
 - [The Journey has Just Begun](#the-journey-has-just-begun)
 
 ## What is Flutter
@@ -55,6 +56,20 @@ Here are some link to help you setup
 - [For MacOS](https://www.youtube.com/watch?v=U4TJ5ITGe5Y)
 - [For Linux (VScode Setup)](https://stackoverflow.com/questions/57693434/how-to-setup-flutter-app-in-vscode-in-ubuntu-and-set-up-emulator)
 
+## Best Course for beginners (ACM Suggestion)
+
+- [Flutter & Dart - The Complete Guide [2020 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+- [Flutter & Firebase: Build a Complete App for iOS & Android](https://www.udemy.com/course/flutter-firebase-build-a-complete-app-for-ios-android/)
+- [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+
+## Some sample projects 
+
+
+- [Calculator App](https://www.youtube.com/watch?v=eVG5DkPF5x8)
+- [Nutrition App](https://www.youtube.com/watch?v=K1uH_SN4X0w)
+- [Food Ordering App](https://www.youtube.com/watch?v=WBe1orPAKuM)
+- [Chat App](https://www.youtube.com/watch?v=FTju8w4zEno)
+
 ## Youtube Channels and Playlists
 
 **Some Great platforms to learn flutter**
@@ -91,9 +106,6 @@ Here are some good blogs which one can have a look to know about flutter and gen
 
 **P.S. : The best platform for every answer is Google**
 
-## Best Course for beginners (ACM Suggestion)
-
-- [Flutter & Dart - The Complete Guide [2020 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 
 ## The Journey has Just begun
 
