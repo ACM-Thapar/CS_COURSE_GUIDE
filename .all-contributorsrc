@@ -15,6 +15,16 @@
         "doc",
         "maintenance"
       ]
+    },
+    {
+      "login": "mmudit01",
+      "name": "mmudit01",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/60422886?v=4",
+      "profile": "https://github.com/mmudit01",
+      "contributions": [
+        "doc",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
