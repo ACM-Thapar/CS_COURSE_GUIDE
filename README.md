@@ -1,6 +1,6 @@
 <div align = "center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <img height=200px src= "https://github.com/ACM-Thapar/CS_COURSE_GUIDE/blob/master/acm%20logo.png">
@@ -64,6 +64,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/specter25"><img src="https://avatars1.githubusercontent.com/u/56391382?v=4" width="100px;" alt=""/><br /><sub><b>Ujjwal Agarwal</b></sub></a><br /><a href="#projectManagement-specter25" title="Project Management">📆</a> <a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=specter25" title="Documentation">📖</a> <a href="#maintenance-specter25" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/mmudit01"><img src="https://avatars3.githubusercontent.com/u/60422886?v=4" width="100px;" alt=""/><br /><sub><b>mmudit01</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=mmudit01" title="Documentation">📖</a> <a href="#content-mmudit01" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/notsarthak"><img src="https://avatars0.githubusercontent.com/u/60360840?v=4" width="100px;" alt=""/><br /><sub><b>notsarthak</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=notsarthak" title="Documentation">📖</a> <a href="#content-notsarthak" title="Content">🖋</a></td>
   </tr>
 </table>
 
