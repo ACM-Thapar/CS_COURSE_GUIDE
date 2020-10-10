@@ -35,6 +35,15 @@
         "doc",
         "content"
       ]
+    },
+    {
+      "login": "pranavvidyarthi7",
+      "name": "Pranav Vidyarthi",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/55582190?v=4",
+      "profile": "https://github.com/pranavvidyarthi7",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
