@@ -2,7 +2,7 @@
 
 
 <img height=200px src= "https://github.com/ACM-Thapar/CS_COURSE_GUIDE/blob/master/acm%20logo.png">
-</div>
+
 
 <h1>CS_COURSE_GUIDE</h1>
 
@@ -22,7 +22,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ---
-
+</div>
 <div align="center">
 
 [![GitHub issues](https://img.shields.io/github/issues/ACM-Thapar/CS_COURSE_GUIDE?logo=github)](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/issues) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ACM-Thapar/CS_COURSE_GUIDE?logo=git&logoColor=white) ![GitHub contributors](https://img.shields.io/github/contributors/ACM-Thapar/CS_COURSE_GUIDE?logo=github)
