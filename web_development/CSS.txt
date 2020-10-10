@@ -1,0 +1,16 @@
+#What is CSS
+CSS stands for Cascading Style Sheets
+CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+CSS saves a lot of work. It can control the layout of multiple web pages all at once
+External stylesheets are stored in CSS files
+
+#Get started (Again only for those who wish to go through the basics, else just skip to the project)
+https://www.youtube.com/watch?v=I9XRrlOOazo&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT&index=1
+https://www.w3schools.com/css/css_intro.asp
+
+(Documentation is the official way to learn the technology so no need to go through it if you have already followed the above steps! It is great for when you get stuck somewhere.)
+#Documentation
+https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started
+
+#Project
+https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
