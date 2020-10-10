@@ -15,8 +15,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/ACM-Thapar/CS_COURSE_GUIDE?style=flat-square&token=ANOHNVSU5PPKJXFZBZ5UXJ27BBNTO)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ACM-Thapar/CS_COURSE_GUIDE)
-<a> <img src="https://badgen.net/dependabot/thepracticaldev/dev.to?icon=dependabot" alt="Dependabot Badge"></a>
-
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
@@ -26,28 +24,28 @@
 
 ---
 
-## Contribution to the project
-
 <div align="center">
 
 [![GitHub issues](https://img.shields.io/github/issues/ACM-Thapar/CS_COURSE_GUIDE?logo=github)](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/issues) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ACM-Thapar/CS_COURSE_GUIDE?logo=git&logoColor=white) ![GitHub contributors](https://img.shields.io/github/contributors/ACM-Thapar/CS_COURSE_GUIDE?logo=github)
 
 </div>
-We follow a systematic Git Workflow -
 
-- Create a fork of this repo.
-- Clone your fork of your repo on your pc.
-- [Add Upstream to your clone](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork)
-- **Every change** that you do, it has to be on a branch. Commits on master would directly be closed.
-- Make sure that before you create a new branch for new changes,[syncing with upstream](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork) is neccesary.
+## Project Description
 
-**Commits**
+This is a project particularly aimed at guideing the beginners who want to learn and explore various forms of coding like Web Developement , App Developement , Machine Learning , Blockchain , Competitve Coding etc . This is a open source project and contributions are welcome from anyone who wants to contribute . Go through the [CONTRIBUTING.md](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/blob/master/CONTRIBUTING.md) file if you want to contribute . The project structure is as follows :- 
+- The project root has various folders named after different technical braches we want to cover .
+- The Each folder and a separate README.md file and various sub folders depending upon further bifurcations that the particular branch requires .
+- The readme files contain in a pretty elaborate way , evry thing that a beginner needs to know each readme file contains a minimum of these headings .
+    - About the Technology refer to 
+    - A roadmap about how to learn it 
+    - Courses from udemy , youtube and other platforms 
+    - Good Youtube channels that should be subscribed to .
+    - Good Blog Websites regarding that  Technology.
+    - Other important websites one needs to know .
+    - Further reading
+    
 
-- Write clear meaningful git commit messages (Do read [this](http://chris.beams.io/posts/git-commit/)).
-- Make sure your PR's description contains GitHub's special keyword references that automatically close the related issue when the PR is merged. (Check [this](https://github.com/blog/1506-closing-issues-via-pull-requests) for more info)
-- When you make very very minor changes to a PR of yours (like for example fixing a failing Travis build or some small style corrections or minor changes requested by reviewers) make sure you squash your commits afterward so that you don't have an absurd number of commits for a very small fix. (Learn how to squash at [here](https://davidwalsh.name/squash-commits-git))
-- When you're submitting a PR for a UI-related issue, it would be really awesome if you add a screenshot of your change or a link to a deployment where it can be tested out along with your PR. It makes it very easy for the reviewers and you'll also get reviews quicker.
+## Contribution to the project
 
-#### Note
+The contributing instructions are written in the [CONTRIBUTING.md file](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/blob/master/CONTRIBUTING.md) . Thoroughly follow the instructions if you want your pull request to be merged without and conflicts
 
-- Use only `yarn add package_name` to add new packages to the client and server.
