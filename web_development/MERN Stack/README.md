@@ -67,3 +67,21 @@ It is recommended to use Visual Studio Code, the setup for the same can be found
 - [w3Schools HTML Tutorial](https://www.w3schools.com/html/html_intro.asp)
 - [Documentation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
+## What is CSS
+- CSS stands for Cascading Style Sheets
+- CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+- CSS saves a lot of work. It can control the layout of multiple web pages all at once
+- External stylesheets are stored in CSS files
+
+## Best CSS Course for beginners (ACM Suggestion)
+**(Again if you wish to go through the basics, else just skip to the projects)**
+- [CSS from Basics Playlist](https://www.youtube.com/watch?v=I9XRrlOOazo&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT&index=1)
+- [CSS FreeCodeCamp Beginner to Expert](https://www.youtube.com/results?search_query=codecamp+css)
+- [w3Schools CSS Tutorial](https://www.w3schools.com/css/css_intro.asp)
+- [Documentation](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
+
+
+## Some sample projects with HTML & CSS
+- [NetNinja Build Landing Page](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+- [FreeCodeCamp Build a website](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [Complete blooger website using HTML & CSS](https://www.youtube.com/watch?v=CrSC1ZA9j0M)
