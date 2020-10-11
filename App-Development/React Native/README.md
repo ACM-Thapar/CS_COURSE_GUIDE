@@ -23,6 +23,8 @@ website having 24 small exercises and you will be all done ).
 - [What is React Native](#what-is-react-native)
 - [Development Environment](#development-environment)
 - [How to begin](#how-to-begin)
+- [Where to go next?](#where-to-go-next)
+- [Some project ideas](#some-project-ideas)
 
 ## What is React Native
  
@@ -64,3 +66,31 @@ https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
 - Codeman youtube playlist:
 https://www.youtube.com/playlist?list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h
 Try to build the small projects from here.
+
+
+
+## Where to get next
+
+
+Start cloning apps on your own now. Pick any app from your phone whose codes
+or tutorials aren’t available over the internet and start cloning it. You are going to
+learn much faster and will also develop an “eye for details” ability. Start with
+react-redux and firebase.
+
+- For redux checkout the official doc of ReactRedux : ​ https://redux.js.org/
+
+- For firebase :
+            Official Doc:
+             https://rnfirebase.io/
+
+             Youtube channel :
+                ○ The Net Ninja :
+                    https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+                ○ Unsure Programmer :
+                    https://www.youtube.com/channel/UCiNWv52iO_OAdZ12kslG4Cg
+                ○ Coding With Curry:
+                    https://www.youtube.com/channel/UCLBhrKXc9CQczo1vBA6w_mA
+
+
+
+
