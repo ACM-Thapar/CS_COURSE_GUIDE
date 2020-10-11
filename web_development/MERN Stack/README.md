@@ -2,15 +2,15 @@
 Web Development Guide
 ==
 <p float="left" align="middle">
-<img height=200px style="padding:7.5px" src= "https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
+<img height=200px style="margin:7.5px" src= "https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
 
-<img height=200px style="padding:7.5px" src= "https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png">
+<img height=200px style="margin:7.5px" src= "https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png">
 
-<img height=200px style="padding:7.5px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png">
+<img height=200px style="margin:7.5px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png">
 
-<img height=200px style="padding:7.5px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
+<img height=200px style="margin:7.5px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
 
-<img height=200px style="padding:7.5px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png">
+<img height=200px style="margin:7.5px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png">
 </p>
 
 **Pre-requisites**
