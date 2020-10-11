@@ -1,9 +1,9 @@
 # Competitive Programming Roadmap
 ## Table of Contents
 
-- [What is Competitive Programming?](#What-is-Competitive-Programming?)
-- [How to begin?](#How-to-begin?)
-- [HOW TO PRACTICE?](#HOW-TO-PRACTICE?)
+- [What is Competitive Programming?](#What-is-Competitive-Programming)
+- [How to begin?](#How-to-begin)
+- [HOW TO PRACTICE?](#HOW-TO-PRACTICE)
 - [What are virtual contests?](#What-are-virtual-contests?)
 - [Tutorials](#Tutorials)
 ## What is Competitive Programming?
@@ -22,7 +22,7 @@ Get an idea about what time complexity, sorting and searching is, and solve some
 
 <b>Step-3(Choice of Platform):</b>
 
-There are a lot of platforms for competitive programming but I recommend you to participate in <b>codeforces</b> (for short contests and practice) and <b>codechef</b>(for long contests). A lot of people will advise you to begin from hackerrank but I would suggest you to use it in a different manner and that I will explain the reason in “[HOW TO PRACTICE?](#HOW-TO-PRACTICE?)” section.
+There are a lot of platforms for competitive programming but I recommend you to participate in <b>codeforces</b> (for short contests and practice) and <b>codechef</b>(for long contests). A lot of people will advise you to begin from hackerrank but I would suggest you to use it in a different manner and that I will explain the reason in “[HOW TO PRACTICE?](#HOW-TO-PRACTICE)” section.
 
 <b>Honourable mention: Atcoder</b> the beginner contests held by this site are a brilliant way to increase your implementation typing speed.
 
@@ -36,11 +36,25 @@ Learn what standard template library (<b>STL</b>) is and its syntax. This step i
 
 ## HOW TO PRACTICE?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The way you practice defines the way you grow and it differs from person to person. I will link a spreadsheet made by Mostafa Saad, which describes two different ways of practice and has problems associated with them: one is solving topic wise problems while the other is solving difficulty wise random problems.
 
+Now I am going to discuss my strategy to practice, when you are a beginner I would suggest you to sort the problem set in codeforces according to difficulty rating in range 800-900.
+
+![RATING](https://raw.githubusercontent.com/ACM-Thapar/CS_COURSE_GUIDE/master/Competitive-Programming/RATING.png)
+
+ And you should spend at least 15-20 minutes on a problem and if you are not able to solve the problem then you should take a look at the tutorial section which will contain its solution and explanation.
+
+ ![RATING](https://raw.githubusercontent.com/ACM-Thapar/CS_COURSE_GUIDE/master/Competitive-Programming/TUTORIAL.png)
+ 
+ You should read its explanation and if it states something that you don’t know (say something like prefix sums) then you should learn about that first through various sites like geeksforgeeks or cp-algorithms(links in "[TUTORIAL](#Tutorials)” section) or there are many handbooks available online like by Antti Laaksonen or by Halim and Halim and after learning the concept you should solve some problems related to that concept and after that implement that problem on your own and if you are unable to attempt then you should take a look at its code and implement it. If you are able to solve the problem in the first go then also you should take a look at the code submitted by some other coders as it might teach you some different approaches. When you feel comfortable in solving problems from a particular range you should increase its difficulty.
+
+ You should follow this till that range reaches 1100, after that we will change our approach. Now we will be giving at least 1 contest a week and 2 virtual contests (I will explain this after a few lines) in a week. You should spend your whole allotted time into solving these problems; if you are not able to solve a problem then you should at least read that problem and think about it for 5-10 minutes and when the contest finishes you should <b>UPSOLVE</b> those problems that you were able to read after going through the tutorial which is usually released within 12 hours after contest finishes but now as the difficulty of the problems have been increased if you encounter any topic that you haven’t done before you should learn that from a site known as cp-algorithms. Now after learning the algorithm you must be able to implement that for that <b>HackerRank</b> comes into the picture as in competitive programming no one asks you to implement a regular algorithm rather they would ask you to implement its twisted form so to practice regular implementation you should definitely use hackerrank.
+ 
 ## What are virtual contests?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Codeforces and Atcoder gives you the experience of real time contests by giving you all the features of an unrated contest (like showing current standing and time elapsed) for a contest that has already occurred and you can use this feature to your benefit by following the practicing method described above.
+
+![RATING](https://raw.githubusercontent.com/ACM-Thapar/CS_COURSE_GUIDE/master/Competitive-Programming/Virtual.png)
 
 ## Tutorials
 
