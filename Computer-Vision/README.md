@@ -25,9 +25,9 @@ This field is very adventurous but only sticking to API calls of the library wou
 - [OpenCV Installation](#opencv-installation)
 - [Image Processing](#image-processing)
 - [Machine Learning and Image Processing](#machine-learning-and-image-processing)
-- [Deep Learning](#)
-- [Youtube Channels to Subscribe](#)
-- [OpenCV Blogs](#)
+- [Deep Learning](#deep-learning)
+- [Youtube Channels to Subscribe](#recommended-youtube-channels)
+- [Recommended Books](#recommended-books)
 - [CV Applications](#)
 
 ---
@@ -57,8 +57,35 @@ Image processing is Computing technique to manipulate Matrix that contain the in
 
 ## Machine Learning and Image Processing
 
-The use of Machine Learning to Extract freatures from Image is the key step towards Computer vision.
+The use of Machine Learning in Image Processing is to Make Decisions on extracted features from techniques learned in the above section.
 
 - Basics of Machine Learning (a solo [Machine Learing](https://www.youtube.com/watch?v=pid0lUH467o&list=PLc2Vt2TeBAU1qT_z48958P97Id7yE--DZ) Course would be preferred )
 - Applying ML to process extracted features
 
+---
+
+## Deep Learning
+
+Deep Learning allows us to remove manual feature extraction. The Machine now becomes Intelligent enough to take raw input and make decisions based upon it.
+
+- Basics of Neural Networks and Deep Neural Networks [Lex Fridman Deep Learning Playlist](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+- Application of DNN to get rid of manual feature extraction.
+
+---
+
+## Recommended Youtube Channels
+
+Hands-on/experiencial learing is the best way to learn programming. Here are some good number of Youtube channels
+
+- [Sentex,OpenCV in Python](https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq&ab_channel=sentdex)
+
+__More channels soon__
+
+---
+
+## Recommended Books
+
+Books are very good resource for deep understanding of a  subject. They can be used as reference for many purposes.
+
+- Learning OpenCV3, Computer Vision in C++ OpenCV library by Adrian Kaehler & Gary Bradski
+- OpenCV: Computer Vision Projects with Python by Joseph Howse, Michael Beyeler, and Prateek Joshi
