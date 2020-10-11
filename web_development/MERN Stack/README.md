@@ -1,8 +1,8 @@
 
 Web Development Guide
 ==
-
-<img height=200px src= "https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" style="display: inline-block">
+<p float="left">
+<img height=200px src= "https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
 
 <img height=200px src= "https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png">
 
@@ -11,6 +11,7 @@ Web Development Guide
 <img height=200px src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
 
 <img height=200px src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png">
+</p>
 
 **Pre-requisites**
 
