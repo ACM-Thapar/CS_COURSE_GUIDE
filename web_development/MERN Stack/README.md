@@ -30,6 +30,7 @@
     - [What is React.js](#what-is-react)
     - [What is Redux](#what-is-redux)
     - [Best Frontend Course Roadmap for beginners(ACM Suggestion)](#best-frontend-course-roadmap-for-beginners(acm-suggestion))
+    - [Sites for Reference](#sites-for-reference)
 - [Backend Guide](#frontend-guide)
     - [What is Node.js](#what-is-node.js)
     - [Best Node.js Course for beginners (ACM Suggestion)](#best-Node.js-Course-for-beginners-(acm-suggestion))
@@ -89,8 +90,6 @@ Redux is an open-source JavaScript library for managing application state. It is
 (Documentation is the official way to learn the technology so no need to go through it if you have already followed the steps before it! It is great for when you get stuck somewhere.)**
 
 - [HTML and CSS Crash Course Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
-- [w3Schools HTML Tutorial](https://www.w3schools.com/html/html_intro.asp)
-- [Documentation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 - [Complete blooger website using HTML & CSS](https://www.youtube.com/watch?v=CrSC1ZA9j0M)
 - [JS Crash Course Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=4321s)
 - For learning particular things in JavaScript, can refer to [techsith](https://www.youtube.com/user/techSithTube) youtube channel
@@ -99,6 +98,10 @@ Redux is an open-source JavaScript library for managing application state. It is
 - [Complete React with Redux](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 - [React Context & Hooks](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
 - [NetNinja React Project](https://www.youtube.com/watch?v=vUe91uOx7R0&t=111s)
+
+## Sites for Reference
+- [w3Schools HTML Tutorial](https://www.w3schools.com/html/html_intro.asp)
+- [Documentation](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
 <br />
 <h1 style="margin-bottom:7.5px">Back-End Development</h1>
