@@ -28,7 +28,7 @@ This field is very adventurous but only sticking to API calls of the library wou
 - [Deep Learning](#deep-learning)
 - [Youtube Channels to Subscribe](#recommended-youtube-channels)
 - [Recommended Books](#recommended-books)
-- [CV Applications](#)
+- [CV Applications](#cv-applications)
 
 ---
 
@@ -78,6 +78,7 @@ Deep Learning allows us to remove manual feature extraction. The Machine now bec
 Hands-on/experiencial learing is the best way to learn programming. Here are some good number of Youtube channels
 
 - [Sentex,OpenCV in Python](https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq&ab_channel=sentdex)
+- [Programming Knowledge OpenCV Playlist](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K)
 
 __More channels soon__
 
@@ -89,3 +90,11 @@ Books are very good resource for deep understanding of a  subject. They can be u
 
 - Learning OpenCV3, Computer Vision in C++ OpenCV library by Adrian Kaehler & Gary Bradski
 - OpenCV: Computer Vision Projects with Python by Joseph Howse, Michael Beyeler, and Prateek Joshi
+
+---
+
+## CV Applications
+
+- [Python Friendly Projects](https://data-flair.training/blogs/computer-vision-project-ideas/)
+
+__More Application Articles soon__
