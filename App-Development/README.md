@@ -1,5 +1,30 @@
 <!-- ![Repository Banner](headerimage.png) -->
+Guide to Become App Developer
+==
+
+## Tools to learn App Development
+
+#### Cross Platform App Development
+
+- [FLutter](https://github.com/mmudit01/CS_COURSE_GUIDE/blob/master/App-Development/Flutter/README.md)
+- [React Native](https://github.com/mmudit01/CS_COURSE_GUIDE/blob/master/App-Development/React%20Native/README.md)
+
+We at ACM Thapar suggest you that if you have knowledge about React then must go for [React Native](https://github.com/mmudit01/CS_COURSE_GUIDE/blob/master/App-Development/React%20Native/README.md)
+
+For a person completely new to coding environment we prefer [FLutter](https://github.com/mmudit01/CS_COURSE_GUIDE/blob/master/App-Development/Flutter/README.md)
+
+    For Android App Development
+
+    - Java
+    - Kotlin
+
+    For IOS App Development
+
+    - Swift
+
+
 #### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
+
 
 ## Table of Contents
 
