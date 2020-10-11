@@ -1,6 +1,4 @@
-<!-- ![Repository Banner](headerimage.png) -->
-#### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.
-# Competitive Programming Guide
+# Competitive Programming Roadmap
 ## Table of Contents
 
 - [What is Competitive Programming?](#What-is-Competitive-Programming?)
@@ -14,7 +12,37 @@ It’s a kind of sport (something like a game of chess) where we combine our pro
 
 ## How to begin?
 
->Websites that offer free fonts as well as font based tools
+<b>Step -1(Choice of language):</b>
+
+First of all we need to learn the basic syntax of any language (I highly recommend <b>C++</b> because a lot of support and implementation of various algorithms are present on the internet, plus C++ is fast and there have been some situations where a logically same solution in java or python gets a TLE (Time Limit Exceeded) result while C++ gets a correct answer).
+
+<b>Step-2:</b>
+
+Get an idea about what time complexity, sorting and searching is, and solve some questions based on simple implementation and maths (Platform will be discussed in next step).
+
+<b>Step-3(Choice of Platform):</b>
+
+There are a lot of platforms for competitive programming but I recommend you to participate in <b>codeforces</b> (for short contests and practice) and <b>codechef</b>(for long contests). A lot of people will advise you to begin from hackerrank but I would suggest you to use it in a different manner and that I will explain the reason in “[HOW TO PRACTICE?](#HOW-TO-PRACTICE?)” section.
+
+<b>Honourable mention: Atcoder</b> the beginner contests held by this site are a brilliant way to increase your implementation typing speed.
+
+<b>Step-4:</b>
+
+Learn what standard template library (<b>STL</b>) is and its syntax. This step is most important for you to get a good rank in contests because in contests first two questions are generally based on STL/implementation/maths and if you can solve that in less than 10 to 20 minutes then you are already ahead of beginners. For learning STL I would suggest you to go through the syntax from sites like geeksforgeeks or there is an excellent video available on YouTube by <b>Rachit Jain</b>. I will link all the sites and tutorial mentioned here in the “[TUTORIALS](#Tutorials)” section and its okay if you can’t remember the syntax because nobody does in their first attempt that’s why should bookmark the STL implementations on your browser and after some practice you will be able to remember all the important and frequent ones.
+
+<b>Step-5:</b>
+
+<em>Give contests!!!</em> And I say this with extra emphasis is because you can’t know your real time performance just by practicing questions as you will definitely perform differently under the pressure of time limit and ranks and I will suggest you to not take stress or demotivation from ranks and ratings during the initial phase of your journey because rating is just a parameter to show how well you will perform during a contest.
+
+## HOW TO PRACTICE?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## What are virtual contests?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Tutorials
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -47,17 +75,6 @@ It’s a kind of sport (something like a game of chess) where we combine our pro
 | [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts) |  A Hassle-Free Way to Self-Host Google Fonts |
 | [Rough Font Awesome](https://djamshed.github.io/rough-awesome-font/dist/)| When RoughJS meets Font Awesome |
 
-## HOW TO PRACTICE?
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## What are virtual contests?
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Tutorials
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
