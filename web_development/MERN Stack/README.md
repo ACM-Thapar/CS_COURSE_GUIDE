@@ -1,7 +1,7 @@
 
 Web Development Guide
 ==
-<p float="left">
+<p float="left" align="middle">
 <img height=200px src= "https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
 
 <img height=200px src= "https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png">
