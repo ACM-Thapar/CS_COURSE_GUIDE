@@ -79,18 +79,20 @@ react-redux and firebase.
 
 - For redux checkout the official doc of ReactRedux : ​ https://redux.js.org/
 
-- For firebase :
-            Official Doc:
-             https://rnfirebase.io/
+- For firebase 
 
-             Youtube channel :
-                ○ The Net Ninja :
-                    https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
-                ○ Unsure Programmer :
-                    https://www.youtube.com/channel/UCiNWv52iO_OAdZ12kslG4Cg
-                ○ Coding With Curry:
-                    https://www.youtube.com/channel/UCLBhrKXc9CQczo1vBA6w_mA
+            * Official Doc https://rnfirebase.io/
+
+            * Youtube channel 
+                - The Net Ninja : https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+                - Unsure Programmer : https://www.youtube.com/channel/UCiNWv52iO_OAdZ12kslG4Cg
+                - Coding With Curry: https://www.youtube.com/channel/UCLBhrKXc9CQczo1vBA6w_mA
 
 
+## Some project ideas
 
+- Beginners: ​ Calculator app, Currency-converter app, GST calculator
 
+- Intermediate:​ Tic-Tac-Toe game, Weather app, Drinking water reminder app,ToDo app
+
+- Advanced (using redux,firebase):​ Movie recommendation app, Chatting app,Quiz app, Recipe app
