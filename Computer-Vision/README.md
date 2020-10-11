@@ -23,9 +23,8 @@ This field is very adventurous but only sticking to API calls of the library wou
 ## Table of Contents
 
 - [OpenCV Installation](#opencv-installation)
-- [Image Processing](#)
-- [Machine Learning](#)
-- [Machine Learning and Image Processing](#)
+- [Image Processing](#image-processing)
+- [Machine Learning and Image Processing](#machine-learning-and-image-processing)
 - [Deep Learning](#)
 - [Youtube Channels to Subscribe](#)
 - [OpenCV Blogs](#)
@@ -40,3 +39,26 @@ The easiest way to get started is with the help of python. You can simply ``pip3
 - [OpenCV Installation Guide](https://docs.opencv.org/master/df/d65/tutorial_table_of_content_introduction.html)
 
 Getting started with Python with pre-built binaries are recommended for beginners. Using C++ with OpenCV gives a deep access to OpenCV.
+
+---
+
+## Image Processing
+
+Image processing is Computing technique to manipulate Matrix that contain the intensity values for different color spaces. Understanding how images are actually stored in computer is very necessary.
+
+[Youtube Playlist for Image Processing](ttps://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)
+
+- Image Processing
+  - To Encode data in portable format.
+  - Use of Filters
+  - Feature extraction methods
+
+---
+
+## Machine Learning and Image Processing
+
+The use of Machine Learning to Extract freatures from Image is the key step towards Computer vision.
+
+- Basics of Machine Learning (a solo [Machine Learing](https://www.youtube.com/watch?v=pid0lUH467o&list=PLc2Vt2TeBAU1qT_z48958P97Id7yE--DZ) Course would be preferred )
+- Applying ML to process extracted features
+
