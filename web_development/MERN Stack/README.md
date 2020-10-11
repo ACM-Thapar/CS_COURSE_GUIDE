@@ -2,15 +2,15 @@
 Web Development Guide
 ==
 <p float="left" align="middle">
-<img height=200px src= "https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
+<img height=200px style="padding:7.5px" src= "https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
 
-<img height=200px src= "https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png">
+<img height=200px style="padding:7.5px" src= "https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png">
 
-<img height=200px src= "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png">
+<img height=200px style="padding:7.5px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png">
 
-<img height=200px src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
+<img height=200px style="padding:7.5px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
 
-<img height=200px src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png">
+<img height=200px style="padding:7.5px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png">
 </p>
 
 **Pre-requisites**
@@ -49,6 +49,8 @@ One can do Web Development on any code editor be it Visual Studio, Atom, Sublime
 It is recommended to use Visual Studio Code, the setup for the same can be found [here](https://code.visualstudio.com/docs/languages/html)
 
     Download & Setup IDE
+
+<h1>Front-End Development</h1>
 
 ## What is HTML
  
@@ -117,6 +119,8 @@ Redux is an open-source JavaScript library for managing application state. It is
 - [Complete React with Redux](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 - [React Context & Hooks](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
 - [NetNinja React Project](https://www.youtube.com/watch?v=vUe91uOx7R0&t=111s)
+
+<h1>Back-End Development</h1>
 
 ## What is Node.js
 Node.js is an open-source, cross-platform, back-end, JavaScript runtime environment that executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying web-application development around a single programming language, rather than different languages for server- and client-side scripts.
