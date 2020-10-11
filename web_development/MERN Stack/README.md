@@ -1,7 +1,7 @@
 
 <div align = "center">
-Web Development Guide
-==
+<h1> MERN Stack Web Development Guide</h1>
+
 <p float="left" align="middle">
 <img height=100px style="margin:7.5px" src= "https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
 
