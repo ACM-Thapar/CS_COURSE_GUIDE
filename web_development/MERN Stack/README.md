@@ -94,6 +94,7 @@ Redux is an open-source JavaScript library for managing application state. It is
 - [JS Crash Course Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=4321s)
 - For learning particular things in JavaScript, can refer to [techsith](https://www.youtube.com/user/techSithTube) youtube channel
 - [Bootstrap 5 crash course](https://www.youtube.com/watch?v=c9B4TPnak1A&t=3687s)
+- [Bootstrap 5 landing page project](https://www.youtube.com/watch?v=1v_XcJsGtyA)
 - [Bootstrap 5 official website](https://v5.getbootstrap.com/)
 - [Complete React with Redux](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 - [React Context & Hooks](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
