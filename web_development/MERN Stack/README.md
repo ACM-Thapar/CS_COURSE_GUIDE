@@ -90,11 +90,11 @@ Redux is an open-source JavaScript library for managing application state. It is
 (Documentation is the official way to learn the technology so no need to go through it if you have already followed the steps before it! It is great for when you get stuck somewhere.)**
 
 - [HTML and CSS Crash Course Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
-- [Complete blooger website using HTML & CSS](https://www.youtube.com/watch?v=CrSC1ZA9j0M)
-- [JS Crash Course Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=4321s)
+- [Complete blooger website using HTML & CSS](https://youtu.be/CrSC1ZA9j0M)
+- [JS Crash Course Traversy Media](https://youtu.be/hdI2bqOjy3c)
 - For learning particular things in JavaScript, can refer to [techsith](https://www.youtube.com/user/techSithTube) youtube channel
-- [Bootstrap 5 crash course](https://www.youtube.com/watch?v=c9B4TPnak1A&t=3687s)
-- [Bootstrap 5 landing page project](https://www.youtube.com/watch?v=1v_XcJsGtyA)
+- [Bootstrap 5 crash course](https://youtu.be/c9B4TPnak1A)
+- [Bootstrap 5 landing page project](https://youtu.be/1v_XcJsGtyA)
 - [Bootstrap 5 official website](https://v5.getbootstrap.com/)
 - [Complete React with Redux](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
 - [React Context & Hooks](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
