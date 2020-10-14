@@ -98,6 +98,8 @@ Here are some link to help you setup
 - [Flutter Course (Free Course Camp)](https://www.youtube.com/watch?v=pTJJsmejUOQ)
 - [Flutter Crash Course (Traversy Media)](https://www.youtube.com/watch?v=1gDhl4leEzA)
 - [Dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
+- [MTECHVIRAL](https://www.youtube.com/c/MTechViral/playlists)
+- [The Growing Developer](https://www.youtube.com/c/TheGrowingDeveloper/videos)
 
 ## Best Flutter Blogs and Websites
 
@@ -134,6 +136,9 @@ These are some of tht handpicked blogs which the Flutter Team of ACM Thapar uses
  - [Push Notification](https://medium.com/@duytq94/flutter-chat-app-extended-push-notification-messages-a26c669f4675)
  - [Some Useful tools of Flutter](https://medium.com/@duytq94/flutter-chat-app-extended-push-notification-messages-a26c669f4675)
  - [Search Functionality in Flutter](https://medium.com/flutter-community/search-as-you-type-in-flutter-e042168e6517)
+ - [Learn more about Flutter plugins](https://pub.dev/)
+ - [Flutter Roadmap](https://github.com/olexale/flutter_roadmap)
+ - [Flutter tips and tricks](https://github.com/erluxman/awesomefluttertips)
 
 
 
