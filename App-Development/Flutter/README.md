@@ -12,9 +12,9 @@ Flutter Guide
 ### Table of Contents
 
 - [What is Flutter](#what-is-flutter)
-- [Some Good Blogs(Must Read)](#some-good-blogs)
+- [Some Good Blogs(Must Read)](#some-good-blogs-(Must-Read))
 - [How to begin](#how-to-begin)
-- [Best Course for beginners (ACM Suggestion)](#best-course-for-beginners)
+- [Best Course for beginners (ACM Suggestion)](#best-course-for-beginners-(ACM-Suggestion))
 - [Some sample projects](#some-sample-projects)
 - [Youtube Channels to Subscribe](#youtube-channels-and-playlists)
 - [Best Flutter Blogs and Websites](#best-flutter-blogs-and-websites)
