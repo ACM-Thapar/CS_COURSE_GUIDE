@@ -72,9 +72,11 @@ Here are some link to help you setup
 
 ## Best Course for beginners (ACM Suggestion)
 
-- [Flutter & Dart - The Complete Guide [2020 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
-- [Flutter & Firebase: Build a Complete App for iOS & Android](https://www.udemy.com/course/flutter-firebase-build-a-complete-app-for-ios-android/)
+
+    PS: Folllow the order given below for the courses 
 - [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+- [Flutter & Firebase: Build a Complete App for iOS & Android](https://www.udemy.com/course/flutter-firebase-build-a-complete-app-for-ios-android/)
+
 
 ## Some sample projects 
 
