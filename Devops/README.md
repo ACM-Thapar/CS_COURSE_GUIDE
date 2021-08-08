@@ -24,27 +24,32 @@
 ### Table of Contents
 - [What is DevOps?](#what-is-devops)
     - [DevOps Practices](#devops-practices)
-        - [Continuous Development](#continuous-development)
-        - [Continuous Integration](#continuous-integration)
-        - [Continuous Delivery](#continuous-delivery)
-        - [Continuous Deployment](#continuous-deployment)]
-        - [Continous Testing](#continuous-testing)
-        - [Continuous Monitoring](#continuous-monitoring)
-        - [Infrastructure as Code](#infrastructure-as-code)
-        - [Microservices](#microservices)]
+        - [Continuous Development](#1-continuous-development)
+        - [Continuous Integration](#2-continuous-integration-ci)
+        - [Continuous Delivery](#3-continuous-delivery-cd)
+        - [Continuous Deployment](#4-continuous-deployment)
+        - [Continous Testing](#5-continuous-testing)
+        - [Continuous Monitoring](#6-continuous-monitoring)
+        - [Infrastructure as Code](#7-infrastructure-as-code)
+        - [Microservices](#8-microservices)]
 - [How to begin](#how-to-begin)
     - [Basic Concepts](#basic-concepts) 
-        - [OSI Network Model]
+        - [Containerization](#containerization)
+        - [OSI Network Model](#osi-network-model)
+        - [TCP/IP Network Model](#tcpip-network-model)
+        - [Transport Protocols](#transport-protocols)
+        - [Beginner Devops Engineering Concepts](#beginner-devops-engineering-concepts)]]
 - [Docker](#docker)
-    - [What is docker](#what-is-docker)
+    - [What is docker?](#what-is-docker)
 - [Kubernetes](#kubernetes)
-    - [What is kubernetes](#what-is-kubernetes)
+    - [What is kubernetes?](#what-is-kubernetes)
 - [Travis CI](#travis-ci)
-    - [What is Travis CI](#what-is-travis-ci)
+    - [What is Travis CI?](#what-is-travis-ci)
 - [Nginx](#nginx)
-    - [What is nginx](#what-is-nginx)
+    - [What is Nginx?](#what-is-nginx)
 - [Amazon Web Services](#amazon-web-services)
-    - [What is Amazon Web Services](#what-is-amazon-web-services)
+    - [What is Amazon Web Services?](#what-is-amazon-web-services)
+- [Recommended Courses](#recommended-courses)
 
 
 ## What is DevOps?
@@ -87,13 +92,17 @@
 ## How to begin 
 
 ### Basic Concepts
-##### [OSI Network Model](https://www.youtube.com/watch?v=dV8mjZd1OtU)
 
-##### [TCP/IP Network Model](https://www.youtube.com/watch?v=F5rni9fr1yE)
+##### - [Containerization](https://www.youtube.com/watch?v=0qotVMX-J5s)
+##### - [OSI Network Model](https://www.youtube.com/watch?v=dV8mjZd1OtU)
 
-##### [Transport Protocols](https://www.youtube.com/watch?v=37AFBZv4_6Y)
+##### - [TCP/IP Network Model](https://www.youtube.com/watch?v=F5rni9fr1yE)
 
-##### [Beginner Devops Engineering Concepts](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)
+##### - [Transport Protocols](https://www.youtube.com/watch?v=37AFBZv4_6Y)
+
+##### - [Beginner Devops Engineering Concepts](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)
  
 
+## Docker
 
+### What is docker?
