@@ -55,7 +55,7 @@
 
 ## What is DevOps?
 <div align="center">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F3964%2F1*9pVLG4BzEWIcMnfhFp9ULQ.png&f=1&nofb=1" height="220" width="400" alt="Devops"
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F3964%2F1*9pVLG4BzEWIcMnfhFp9ULQ.png&f=1&nofb=1" height="220" width="400" alt="Devops">
 </div>
 
 - DevOps can be explained simply as operations working together with engineers to get things done faster in an automated and repeatable way.
