@@ -76,9 +76,9 @@ In this section I will share the sites that you can refer to for learning purpos
 | [Google Contests](https://codingcompetitions.withgoogle.com/) | Contest hosting site for Google| 
 [Facebook Contests](https://www.facebook.com/codingcompetitions)| Contest hosting site for Facebook |
 
-<a href="/t/what-are-the-must-known-algorithms-for-online-programming-contests/2717" class="fancy-title" data-ember-action="" data-ember-action-26="26">
+<h1" class="fancy-title" data-ember-action="" data-ember-action-26="26">
                 What are the “must known” algorithms for online programming contests?
-              </a>
+              </h1>
               <p>Hello all,<br>
 I’ve been practicing at Codechef for a while and now I’m gradually moving toward medium/hard problems. However many algorithms at these levels are very difficult to predict, and I was always stuck because I’m not aware of them. So I open this topic, my hope is to have a wish-list of most used algorithm for online programming contest that I can look up for reference. Here is my short-list up to now:</p>
 <ol>
