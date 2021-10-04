@@ -76,7 +76,7 @@ In this section I will share the sites that you can refer to for learning purpos
 | [Google Contests](https://codingcompetitions.withgoogle.com/) | Contest hosting site for Google| 
 [Facebook Contests](https://www.facebook.com/codingcompetitions)| Contest hosting site for Facebook |
 
-<h1" class="fancy-title" data-ember-action="" data-ember-action-26="26">
+<h1>
                 What are the “must known” algorithms for online programming contests?
               </h1>
               <p>Hello all,<br>
