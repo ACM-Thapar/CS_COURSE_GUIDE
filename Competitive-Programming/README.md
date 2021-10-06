@@ -8,7 +8,7 @@
 - [Tutorials](#Tutorials)
 ## What is Competitive Programming?
 
-It’s a kind of sport (something like a game of chess) where we combine our problem solving skills with programming. There are several online sites where we can practice and compete about which we will discuss in later sections and there are several international contests hosted by tech giants like Google’s Code Jam, Kickstart, Facebook’s Hacker Cup and ACM ICPC.
+Competitive Programming is a sport, I mean literally. Take any sport, let’s consider cricket for that matter, you walk in to bat for the first time. Swing and a miss, do it couple of times and you’ll eventually hit one over the ropes. Now, consider a programming contest as a game of cricket, metaphorically. There are several online sites where we can practice and compete about which we will discuss in later sections and there are several international contests hosted by tech giants like Google’s Code Jam, Kickstart, Facebook’s Hacker Cup and ACM ICPC.
 
 ## How to begin?
 
