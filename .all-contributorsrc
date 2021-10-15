@@ -74,6 +74,15 @@
         "doc",
         "content"
       ]
+    },
+    {
+      "login": "smit-1923",
+      "name": "Smit Sakariya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68073132?v=4",
+      "profile": "https://www.linkedin.com/in/smitsakariya/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
