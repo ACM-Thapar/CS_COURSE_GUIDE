@@ -12,6 +12,9 @@
 <img height=100px style="margin:7.5px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
 
 <img height=100px style="margin:7.5px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png">
+    
+<img height=100px style="margin:7.5px" src= "https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png">
+    
 </p>
 </div>
 **Pre-requisites**
@@ -23,10 +26,10 @@
 
 - [How to begin](#how-to-begin)
 - [Frontend Guide](#frontend-guide)
-    - [What is HTML](#what-is-HTML)
-    - [What is CSS](#what-is-CSS)
-    - [What is JavaScript](#what-is-JavaScript)
-    - [What is Bootstrap](#what-is-Bootstrap)
+    - [What is HTML](#what-is-html)
+    - [What is CSS](#what-is-css)
+    - [What is JavaScript](#what-is-javascript)
+    - [What is Bootstrap](#what-is-bootstrap)
     - [What is React.js](#what-is-react)
     - [What is Redux](#what-is-redux)
     - [Best Frontend Course Roadmap for beginners(ACM Suggestion)](#best-frontend-course-roadmap-for-beginners(acm-suggestion))
@@ -50,10 +53,10 @@ It is recommended to use Visual Studio Code, the setup for the same can be found
 
     Download & Setup IDE
 
-<h1>Front-End Development Guide</h1>
+# Front-End Development Guide
 
-## What is HTML
- 
+### What is HTML
+ <img height=100px src= "https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
 - HTML stands for Hyper Text Markup Language
 - It is the standard markup language for creating Web pages designed to be displayed in a web browser.
 - Web browsers receive HTML documents and render the documents into multimedia web pages. 
@@ -63,26 +66,31 @@ It is recommended to use Visual Studio Code, the setup for the same can be found
 - With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. 
 - Browsers do not display the HTML tags, but use them to interpret the content of the page.
 
-## What is CSS
+### What is CSS
+<img height=100px src= "https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png">
 - CSS stands for Cascading Style Sheets
 - CSS describes how HTML elements are to be displayed on screen, paper, or in other media
 - CSS saves a lot of work. It can control the layout of multiple web pages all at once
 - External stylesheets are stored in CSS files
 
-## What is JavaScript
+### What is JavaScript
+<img height=100px src= "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
 - JavaScript® (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a scripting language that is dynamic, and supports object-oriented, functional programming styles.
 - JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.
 - Contrary to popular misconception, JavaScript is not "Interpreted Java".
 
-## What is Bootstrap
+### What is Bootstrap
+<img height=100px style="margin:7.5px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png">
 - Bootstrap is a free front-end framework for faster and easier web development.
 Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins.
 - Bootstrap also gives you the ability to easily create responsive designs
 
-## What is React
+### What is React
+<img height=100px style="margin:7.5px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png">
 React (also known as React.js or ReactJS) is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. However, React is only concerned with rendering data to the DOM.
 
-## What is Redux
+### What is Redux
+<img height=100px style="margin:7.5px" src= "https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png">
 Redux is an open-source JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Similar to (and inspired by) Facebook's Flux architecture.
 
 ## Best Frontend Course Roadmap for beginners(ACM Suggestion)
@@ -109,6 +117,7 @@ Redux is an open-source JavaScript library for managing application state. It is
 <br />
 
 ## What is Node.js
+<img height=100px style="margin:7.5px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
 Node.js is an open-source, cross-platform, back-end, JavaScript runtime environment that executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm, unifying web-application development around a single programming language, rather than different languages for server- and client-side scripts.
 
 ## Best Node.js Course for beginners (ACM Suggestion)
@@ -116,10 +125,10 @@ Node.js is an open-source, cross-platform, back-end, JavaScript runtime environm
 - It is highly recommended to follow the projects listed below after completing the basics of Node.js
 
 ## Best Mern Stack Projects
-
-<img alt="Redux Logo" src="https://lh3.googleusercontent.com/proxy/6DDoqROwuJLdhf_Gno5kdkKRSw2MtSwWXDQPW3FnOhlITN0t1y9YoZ7p0XLNmoKx1xhBEwNblj3I2mptEaooNe9yQA-km_nB6K-BJk6fGb8fHK3P4mslYTfj9gTomXtBFFHXoeld4pGeeA" width="256px" />
+<img height=100px style="margin:7.5px" src= "https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png">
 
 - [Social Media Website with MERN Stack](https://www.udemy.com/course/mern-stack-front-to-back/)
+
 - [E-Commerce Website with MERN Stack](https://www.udemy.com/course/mern-ecommerce/)
 
 
