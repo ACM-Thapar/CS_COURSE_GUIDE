@@ -1,5 +1,6 @@
 <div align = "center">
-
+    
+# MINDSCAPE
 
 <img height=200px src= "https://github.com/ACM-Thapar/CS_COURSE_GUIDE/blob/master/acm%20logo.png">
 
