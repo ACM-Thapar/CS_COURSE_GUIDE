@@ -18,7 +18,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ACM-Thapar/CS_COURSE_GUIDE)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ---
@@ -58,18 +58,22 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/specter25"><img src="https://avatars1.githubusercontent.com/u/56391382?v=4" width="100px;" alt=""/><br /><sub><b>Ujjwal Agarwal</b></sub></a><br /><a href="#projectManagement-specter25" title="Project Management">📆</a> <a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=specter25" title="Documentation">📖</a> <a href="#maintenance-specter25" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/mmudit01"><img src="https://avatars3.githubusercontent.com/u/60422886?v=4" width="100px;" alt=""/><br /><sub><b>mmudit01</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=mmudit01" title="Documentation">📖</a> <a href="#content-mmudit01" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/notsarthak"><img src="https://avatars0.githubusercontent.com/u/60360840?v=4" width="100px;" alt=""/><br /><sub><b>notsarthak</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=notsarthak" title="Documentation">📖</a> <a href="#content-notsarthak" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/pranavvidyarthi7"><img src="https://avatars3.githubusercontent.com/u/55582190?v=4" width="100px;" alt=""/><br /><sub><b>Pranav Vidyarthi</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=pranavvidyarthi7" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/Shikhar03Stark"><img src="https://avatars3.githubusercontent.com/u/22128729?v=4" width="100px;" alt=""/><br /><sub><b>Harshit Vishwakarma</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=Shikhar03Stark" title="Documentation">📖</a> <a href="#content-Shikhar03Stark" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/shivangtripathi"><img src="https://avatars1.githubusercontent.com/u/38815785?v=4" width="100px;" alt=""/><br /><sub><b>shivangtripathi</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=shivangtripathi" title="Documentation">📖</a> <a href="#content-shivangtripathi" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/Abhishek-Kharpal"><img src="https://avatars1.githubusercontent.com/u/53441820?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek-Kharpal</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=Abhishek-Kharpal" title="Documentation">📖</a> <a href="#content-Abhishek-Kharpal" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/specter25"><img src="https://avatars1.githubusercontent.com/u/56391382?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ujjwal Agarwal</b></sub></a><br /><a href="#projectManagement-specter25" title="Project Management">📆</a> <a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=specter25" title="Documentation">📖</a> <a href="#maintenance-specter25" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/mmudit01"><img src="https://avatars3.githubusercontent.com/u/60422886?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mmudit01</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=mmudit01" title="Documentation">📖</a> <a href="#content-mmudit01" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/notsarthak"><img src="https://avatars0.githubusercontent.com/u/60360840?v=4?s=100" width="100px;" alt=""/><br /><sub><b>notsarthak</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=notsarthak" title="Documentation">📖</a> <a href="#content-notsarthak" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/pranavvidyarthi7"><img src="https://avatars3.githubusercontent.com/u/55582190?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pranav Vidyarthi</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=pranavvidyarthi7" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Shikhar03Stark"><img src="https://avatars3.githubusercontent.com/u/22128729?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Harshit Vishwakarma</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=Shikhar03Stark" title="Documentation">📖</a> <a href="#content-Shikhar03Stark" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/shivangtripathi"><img src="https://avatars1.githubusercontent.com/u/38815785?v=4?s=100" width="100px;" alt=""/><br /><sub><b>shivangtripathi</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=shivangtripathi" title="Documentation">📖</a> <a href="#content-shivangtripathi" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Abhishek-Kharpal"><img src="https://avatars1.githubusercontent.com/u/53441820?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhishek-Kharpal</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=Abhishek-Kharpal" title="Documentation">📖</a> <a href="#content-Abhishek-Kharpal" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/smitsakariya/"><img src="https://avatars.githubusercontent.com/u/68073132?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Smit Sakariya</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=smit-1923" title="Documentation">📖</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
