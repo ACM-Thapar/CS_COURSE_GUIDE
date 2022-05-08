@@ -76,6 +76,50 @@ In this section I will share the sites that you can refer to for learning purpos
 | [Google Contests](https://codingcompetitions.withgoogle.com/) | Contest hosting site for Google| 
 [Facebook Contests](https://www.facebook.com/codingcompetitions)| Contest hosting site for Facebook |
 
+<a href="/t/what-are-the-must-known-algorithms-for-online-programming-contests/2717" class="fancy-title" data-ember-action="" data-ember-action-26="26">
+                What are the “must known” algorithms for online programming contests?
+              </a>
+              <p>Hello all,<br>
+I’ve been practicing at Codechef for a while and now I’m gradually moving toward medium/hard problems. However many algorithms at these levels are very difficult to predict, and I was always stuck because I’m not aware of them. So I open this topic, my hope is to have a wish-list of most used algorithm for online programming contest that I can look up for reference. Here is my short-list up to now:</p>
+<ol>
+<li>Segment tree (with lazy propagation)</li>
+<li>Interval Tree</li>
+<li>Binary Indexed Tree</li>
+<li><a href="http://discuss.codechef.com/questions/20451/a-tutorial-on-fast-modulo-multiplication-exponential-squaring">Fast Modulo Multiplication (Exponential Squaring) <span class="badge badge-notification clicks" title="253 clicks">253</span></a></li>
+<li>Heuristic Algorithms</li>
+<li>KMP string searching</li>
+<li>Manacher’s Algorithm</li>
+<li>Union Find/Disjoint Set</li>
+<li>Trie</li>
+<li>Prime Miller Rabin</li>
+<li><a href="http://discuss.codechef.com/questions/2335/building-up-the-recurrence-matrix-to-compute-recurrences-in-ologn-time?page=1#20529">Matrix Recurrence + Fast Modulo Multiplication for counting</a></li>
+<li>Stable Marriage Problem</li>
+<li><a href="http://discuss.codechef.com/questions/20842/a-tutorial-on-the-extended-euclids-algorithm">Extended Euclid’s algorithm <span class="badge badge-notification clicks" title="57 clicks">57</span></a></li>
+<li>Ternary Search</li>
+<li>Fast Fourier Transform for fast polynomial multiplication</li>
+<li>Djikstra’s algorithm, Bellman-ford algorithm, Floyd-Warshall Algorithm</li>
+<li>Prim’s Algorithm, Kruskal’s Algorithm</li>
+<li>RMQ, LCA</li>
+<li>Flow related algorithms, assignment problem, Hungarian algorithm</li>
+<li>Bipartite matching algorithms</li>
+<li>Heavy-light decomposition</li>
+<li>Sweep line algorithm</li>
+<li>Z algorithm</li>
+<li>Convex Hull</li>
+<li><a href="http://discuss.codechef.com/questions/21385/a-tutorial-on-suffix-arrays">Suffix Arrays <span class="badge badge-notification clicks" title="78 clicks">78</span></a></li>
+<li>LCP</li>
+<li>Suffix Tree</li>
+<li>Gaussian Elimination</li>
+<li>Numerical Integration/Differentiation</li>
+<li>Line Clipping</li>
+<li>Advanced Maths Ad-Hoc problems</li>
+<li>Aho–Corasick string matching algorithm;</li>
+<li><a href="http://discuss.codechef.com/questions/3869/best-known-algos-for-calculating-ncr-m">Calculate nCr % M Lucas’s Theorem <span class="badge badge-notification clicks" title="66 clicks">66</span></a></li>
+<li>Heavy Light decomposition in trees</li>
+<li>Inverse Modulo operations</li>
+<li>Pollard Rho Integer Factorization</li>
+<li>Catalan Numbers</li>
+</ol>
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
