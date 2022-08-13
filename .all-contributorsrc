@@ -83,6 +83,18 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Samikmalhotra",
+      "name": "Samik Malhotra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72279316?v=4",
+      "profile": "https://samikmalhotra.netlify.app/",
+      "contributions": [
+        "projectManagement",
+        "doc",
+        "maintenance",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
