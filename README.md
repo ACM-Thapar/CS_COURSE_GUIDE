@@ -18,7 +18,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ACM-Thapar/CS_COURSE_GUIDE)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ---
@@ -69,6 +69,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/smitsakariya/"><img src="https://avatars.githubusercontent.com/u/68073132?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Smit Sakariya</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=smit-1923" title="Documentation">📖</a></td>
     <td align="center"><a href="https://samikmalhotra.netlify.app/"><img src="https://avatars.githubusercontent.com/u/72279316?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Samik Malhotra</b></sub></a><br /><a href="#projectManagement-Samikmalhotra" title="Project Management">📆</a> <a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=Samikmalhotra" title="Documentation">📖</a> <a href="#maintenance-Samikmalhotra" title="Maintenance">🚧</a> <a href="#content-Samikmalhotra" title="Content">🖋</a></td>
+    <td align="center"><a href="https://startling-salamander-1a0631.netlify.app/"><img src="https://avatars.githubusercontent.com/u/90264251?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tushar Chopra</b></sub></a><br /><a href="https://github.com/ACM-Thapar/CS_COURSE_GUIDE/commits?author=Tusharbecoding" title="Documentation">📖</a> <a href="#content-Tusharbecoding" title="Content">🖋</a></td>
   </tr>
 </table>
 
