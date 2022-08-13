@@ -8,7 +8,7 @@
 - [Tutorials](#Tutorials)
 ## What is Competitive Programming?
 
-It’s a kind of sport (something like a game of chess) where we combine our problem solving skills with programming. There are several online sites where we can practice and compete about which we will discuss in later sections and there are several international contests hosted by tech giants like Google’s Code Jam, Kickstart, Facebook’s Hacker Cup and ACM ICPC.
+Competitive Programming is a sport, I mean literally. Take any sport, let’s consider cricket for that matter, you walk in to bat for the first time. Swing and a miss, do it couple of times and you’ll eventually hit one over the ropes. Now, consider a programming contest as a game of cricket, metaphorically. There are several online sites where we can practice and compete about which we will discuss in later sections and there are several international contests hosted by tech giants like Google’s Code Jam, Kickstart, Facebook’s Hacker Cup and ACM ICPC.
 
 ## How to begin?
 
@@ -76,9 +76,9 @@ In this section I will share the sites that you can refer to for learning purpos
 | [Google Contests](https://codingcompetitions.withgoogle.com/) | Contest hosting site for Google| 
 [Facebook Contests](https://www.facebook.com/codingcompetitions)| Contest hosting site for Facebook |
 
-<a href="/t/what-are-the-must-known-algorithms-for-online-programming-contests/2717" class="fancy-title" data-ember-action="" data-ember-action-26="26">
+<h2>
                 What are the “must known” algorithms for online programming contests?
-              </a>
+              </h2>
               <p>Hello all,<br>
 I’ve been practicing at Codechef for a while and now I’m gradually moving toward medium/hard problems. However many algorithms at these levels are very difficult to predict, and I was always stuck because I’m not aware of them. So I open this topic, my hope is to have a wish-list of most used algorithm for online programming contest that I can look up for reference. Here is my short-list up to now:</p>
 <ol>
