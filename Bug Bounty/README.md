@@ -20,7 +20,7 @@ I have also put together my own resource:
 ---
 ## Table of Contents
 
-- [Basics](/assets/basics.md)
+- [Basics](./assets/basics.md)
 - [Setup](/assets/setup.md)
 - [Tools](/assets/tools.md)
 - [Labs & Testing Environments](/assets/labs.md)
