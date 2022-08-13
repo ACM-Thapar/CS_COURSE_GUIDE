@@ -95,6 +95,16 @@
         "maintenance",
         "content"
       ]
+    },
+    {
+      "login": "Tusharbecoding",
+      "name": "Tushar Chopra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90264251?v=4",
+      "profile": "https://startling-salamander-1a0631.netlify.app/",
+      "contributions": [
+        "doc",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
