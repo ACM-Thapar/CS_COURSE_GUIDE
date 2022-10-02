@@ -10,13 +10,12 @@ Contributions are welcome !!
 
 # Table of Contents
 
-- [Blockchain Core Concept](#blockchain-core-concept)
-
-- [Books](#books)
-
-- [Roadmap](#roadmap)
-
-- [Development](#development)
+- [Table of Contents](#table-of-contents)
+    - [Blockchain Core Concept](#blockchain-core-concept)
+    - [Books](#books)
+    - [Roadmap](#roadmap)
+    - [Development](#development)
+    - [Web3 Development](#web3-development)
 
 
 ### Blockchain Core Concept
@@ -35,7 +34,11 @@ Contributions are welcome !!
 
 - [Blockchain for Enterprise Application Developers](https://www.wileyindia.com/blockchain-for-enterprise-application-developers.html)  
 
-- [Mastring Ethereum](https://github.com/ethereumbook/ethereumbook)
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+
+- [Hands-On Blockchain Development in 7 Days](https://www.amazon.in/Hands-Blockchain-Development-Days-decentralized/dp/183864010X/ref=sr_1_3?crid=2VD0QZL6X07SA&keywords=hands+on+blockchain+development+in+7+days&qid=1664732826&qu=eyJxc2MiOiIwLjczIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=hands+on+blockchain+development+in+7+%2Caps%2C1369&sr=8-3)
+
+- [Learn Blockchain Programming with JavaScript](https://www.packtpub.com/product/learn-blockchain-programming-with-javascript/9781789618822)
 
 ### Roadmap
 
@@ -56,3 +59,5 @@ Contributions are welcome !!
 - [NFT Marketplace on Ethereum with Polygon and Next.js](https://youtu.be/GKJBEEXUha0)
 
 - [The Complete Guide to Full Stack Ethereum Development - Tutorial for Beginners (2021)](https://www.youtube.com/watch?v=a0osIaAOFSE)
+
+### Web3 Development
