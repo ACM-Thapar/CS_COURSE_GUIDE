@@ -83,6 +83,38 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Samikmalhotra",
+      "name": "Samik Malhotra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72279316?v=4",
+      "profile": "https://samikmalhotra.netlify.app/",
+      "contributions": [
+        "projectManagement",
+        "doc",
+        "maintenance",
+        "content"
+      ]
+    },
+    {
+      "login": "Tusharbecoding",
+      "name": "Tushar Chopra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90264251?v=4",
+      "profile": "https://startling-salamander-1a0631.netlify.app/",
+      "contributions": [
+        "doc",
+        "content"
+      ]
+    },
+    {
+      "login": "ayushnangia",
+      "name": "Ayush Nangia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55181294?v=4",
+      "profile": "https://github.com/ayushnangia",
+      "contributions": [
+        "doc",
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
