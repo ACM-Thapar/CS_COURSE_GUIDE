@@ -15,7 +15,6 @@ Contributions are welcome !!
     - [Books](#books)
     - [Roadmap](#roadmap)
     - [Development](#development)
-    - [Web3 Development](#web3-development)
 
 
 ### Blockchain Core Concept
@@ -60,4 +59,4 @@ Contributions are welcome !!
 
 - [The Complete Guide to Full Stack Ethereum Development - Tutorial for Beginners (2021)](https://www.youtube.com/watch?v=a0osIaAOFSE)
 
-### Web3 Development
+
