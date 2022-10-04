@@ -1,0 +1,22 @@
+set recolor true
+
+map f toggle_fullscreen
+map [fullscreen] f toggle_fullscreen
+
+set default-bg '#11171d'
+set default-fg '#a8a8a8'
+
+set recolor-lightcolor '#11171d'
+set recolor-darkcolor '#a8a8a8'
+
+set font "Courier New 12"
+
+set inputbar-bg '#11171d'
+set inputbar-fg '#a8a8a8'
+
+set statusbar-bg '#11171d'
+set statusbar-fg '#a8a8a8'
+
+set notification-bg '#11171d'
+set notification-fg '#a8a8a8'
+
