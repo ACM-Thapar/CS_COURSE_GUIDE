@@ -11,6 +11,6 @@ Version control software keeps track of every modification to the code in a spec
 - [What is Source Control? Introduction to Git.](./README.md)
 - [Install and setup git for your machine.](./assets/install.md)
 - [What are SSH-Keys and why do you need them?](./assets/ssh-keys.md)
-- [Initialise git in a local repo, host it on GitHub.](/assets/git-init.md)
-- [Setup an upstream and contribute to other's projects.](/assets/contribute.md)
+- [Initialise git in a local repo, host it on GitHub.](./assets/git-init.md)
+- [Setup an upstream and contribute to other's projects.](./assets/contribute.md)
 
