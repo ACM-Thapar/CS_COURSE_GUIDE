@@ -60,8 +60,8 @@ Image processing is Computing technique to manipulate Matrix that contain the in
 
 The use of Machine Learning in Image Processing is to Make Decisions on extracted features from techniques learned in the above section.
 
-- Basics of Machine Learning (a solo [Machine Learing](https://www.youtube.com/watch?v=pid0lUH467o&list=PLc2Vt2TeBAU1qT_z48958P97Id7yE--DZ) Course would be preferred )
-- Applying ML to process extracted features
+- Basics of Machine Learning (a solo [Machine Learing](https://www.youtube.com/watch?v=pid0lUH467o&list=PLc2Vt2TeBAU1qT_z48958P97Id7yE--DZ) course would be preferred )
+- Applying ML to process extracted features ([Machine Learning - Andrew Ng, Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) full course is most preferred)
 
 ---
 
