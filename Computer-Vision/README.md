@@ -46,7 +46,8 @@ Getting started with Python with pre-built binaries are recommended for beginner
 
 Image processing is Computing technique to manipulate Matrix that contain the intensity values for different color spaces. Understanding how images are actually stored in computer is very necessary.
 
-[Youtube Playlist for Image Processing](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)
+[Youtube Playlist for Image Processing](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9) <br>
+[Digital Image Processing Playlist - Prof. P. K. Biswas, NPTEL](https://www.youtube.com/playlist?list=PL32DC1B4A05136109)
 
 - Image Processing
   - To Encode data in portable format.
