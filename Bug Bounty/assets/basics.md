@@ -40,8 +40,8 @@ Recon is a common terminology used in bug bounties. It’s great if you are alre
 - [What are ports?](https://www.utilizewindows.com/list-of-common-network-port-numbers/)
 - [What is DNS?](https://code.tutsplus.com/tutorials/an-introduction-to-learning-and-using-dns-records--cms-24704)
 - [Intermediate Security Testing with Kali Linux 2](http://www.penguintutor.com/linux/basic-network-reference)
-- [Network Fundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8), A 19 part Video Series about Networking well explained for Beginners
-
+- [Network Fundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8) - A 19 part Video Series about Networking well explained for Beginners
+- [Cisco SkillsForAll](https://skillsforall.com/) - Rich Networking courses by Cisco Networking Academy from beginners to advanced including topic assessments and Cisco Packet Tracer practical labs
 
 ### Programming Basics
 Being a great programmer is not a requirement to be a successful hacker. However, having the ability to make an educated guess, may increase your chances of successfully identifying and exploiting an issue. In a number of cases, you may need to automate your work or know more than just the “basics” in order to escalate a bug with a medium severity to high/critical.
