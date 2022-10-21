@@ -31,16 +31,16 @@
 
 ## Project Description
 
-This is a project particularly aimed at guideing the beginners who want to learn and explore various forms of coding like Web Developement , App Developement , Machine Learning , Blockchain , Competitve Coding etc . This is a open source project and contributions are welcome from anyone who wants to contribute . Go through the [CONTRIBUTING.md](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/blob/master/CONTRIBUTING.md) file if you want to contribute . The project structure is as follows :- 
-- The project root has various folders named after different technical braches we want to cover .
-- The Each folder and a separate README.md file and various sub folders depending upon further bifurcations that the particular branch requires .
-- The readme files contain in a pretty elaborate way , evry thing that a beginner needs to know each readme file contains a minimum of these headings .
-    - About the Technology refer to 
+This is a project particularly aimed at guiding the beginners who want to learn and explore various forms of coding like Web Development, App Development, Machine Learning, Blockchain, Competitive Coding etc. This is an open source project and contributions are welcome from anyone who wants to contribute! Go through the [CONTRIBUTING.md](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/blob/master/CONTRIBUTING.md) file if you want to contribute. The project structure is as follows :- 
+- The project root has various folders named after different technical braches we want to cover.
+- There is a folder and a separate README.md file and various sub folders depending upon further bifurcations that the particular branch requires .
+- The ReadMe files contain in a pretty elaborate way, every thing that a beginner needs to know. Each ReadMe file contains a minimum of these headings.
+    - About the technology that you must refer to 
     - A roadmap about how to learn it 
-    - Courses from udemy , youtube and other platforms 
-    - Good Youtube channels that should be subscribed to .
-    - Good Blog Websites regarding that  Technology.
-    - Other important websites one needs to know .
+    - Courses from Udemy, YouTube and other platforms 
+    - Good YouTube channels that we recommend you should subscribe to
+    - Good blogging websites regarding that technology 
+    - Other important websites one needs to know of
     - Further reading
     
 
