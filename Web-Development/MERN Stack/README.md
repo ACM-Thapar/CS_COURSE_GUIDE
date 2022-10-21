@@ -17,7 +17,8 @@
     
 </p>
 </div>
-**Pre-requisites**
+
+### Pre-requisites
 
 - Good understanding of core programming concepts.
 - Comfortable with basic command line actions and familiarity with source code version control systems such as Git.
@@ -32,7 +33,7 @@
     - [What is Bootstrap](#what-is-bootstrap)
     - [What is React.js](#what-is-react)
     - [What is Redux](#what-is-redux)
-    - [Best Frontend Course Roadmap for beginners(ACM Suggestion)](#best-frontend-course-roadmap-for-beginners(acm-suggestion))
+    - [Best Frontend Course Roadmap for beginners (ACM Suggestion)](#best-frontend-course-roadmap-for-beginners(acm-suggestion))
     - [Sites for Reference](#sites-for-reference)
 - [Backend Guide](#frontend-guide)
     - [What is Node.js](#what-is-node.js)
@@ -47,7 +48,7 @@
 
 #### Choose a Code Editor
 
-One can do Web Development on any code editor be it Visual Studio, Atom, Sublime etc.
+One can do Web Development on any code editor- Visual Studio, Atom, Sublime etc.
 
 It is recommended to use Visual Studio Code, the setup for the same can be found [here](https://code.visualstudio.com/docs/languages/html)
 
@@ -57,30 +58,34 @@ It is recommended to use Visual Studio Code, the setup for the same can be found
 
 ### What is HTML
  <img height=100px src= "https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
+
 - HTML stands for Hyper Text Markup Language
 - It is the standard markup language for creating Web pages designed to be displayed in a web browser.
 - Web browsers receive HTML documents and render the documents into multimedia web pages. 
-- It describes the structure of a Web page
+- It describes the structure of a Web page.
 - HTML elements are the building blocks of HTML pages.
-- HTML elements tell the browser how to display the content
+- HTML elements tell the browser how to display the content.
 - With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. 
 - Browsers do not display the HTML tags, but use them to interpret the content of the page.
 
 ### What is CSS
 <img height=100px src= "https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png">
-- CSS stands for Cascading Style Sheets
-- CSS describes how HTML elements are to be displayed on screen, paper, or in other media
-- CSS saves a lot of work. It can control the layout of multiple web pages all at once
-- External stylesheets are stored in CSS files
+
+- CSS stands for Cascading Style Sheets.
+- CSS describes how HTML elements are to be displayed on screen, paper, or in other media.
+- CSS saves a lot of work. It can control the layout of multiple web pages all at once.
+- External stylesheets are stored in CSS files.
 
 ### What is JavaScript
 <img height=100px src= "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
+
 - JavaScript® (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a scripting language that is dynamic, and supports object-oriented, functional programming styles.
-- JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.
+- JavaScript runs on the client side of the web, which can be used to design/program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.
 - Contrary to popular misconception, JavaScript is not "Interpreted Java".
 
 ### What is Bootstrap
 <img height=100px style="margin:7.5px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png">
+
 - Bootstrap is a free front-end framework for faster and easier web development.
 Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins.
 - Bootstrap also gives you the ability to easily create responsive designs
@@ -97,6 +102,7 @@ Redux is an open-source JavaScript library for managing application state. It is
 **(For those who wish to go through the basics, else just skip to the projects)
 (Documentation is the official way to learn the technology so no need to go through it if you have already followed the steps before it! It is great for when you get stuck somewhere.)**
 
+- One of the most comprehensive guides to becoming a web developer: [FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 - [HTML and CSS Crash Course Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 - [Complete blooger website using HTML & CSS](https://youtu.be/CrSC1ZA9j0M)
 - [JS Crash Course Traversy Media](https://youtu.be/hdI2bqOjy3c)
@@ -149,13 +155,13 @@ Node.js is an open-source, cross-platform, back-end, JavaScript runtime environm
 - [Stack Overflow](https://stackoverflow.com/)
 - [Medium](https://medium.com/)
 
-**P.S. : The best platform for every answer is Google**
+**P.S.: The best platform for every answer is Google**
 
 
-## The Journey has Just begun
+## The journey has just begun!
 
 
-Congratulations on making it this far! Learning Web development is a never ending process new technologies are coming up everyday, but that's what makes it interesting. What we have covered so far will help any new engineer to ACM thapar's Web and App Dev Team to get up to speed with our technologies pretty quickly. There are many more things to be learnt, but building up a solid foundation in the essentials will aid in learning the rest of the technologies.
+Congratulations on making it this far! Learning Web development is a never ending process; new technologies are coming up everyday, but that's what makes it interesting. What we have covered so far will help any new engineer learn from ACM Thapar's Web and App Dev Team and get up to speed with our technologies pretty quickly. There are many more things to be learnt, but building up a solid foundation in the essentials will aid in learning the rest of the technologies.
 
  <div align = "center">
 
