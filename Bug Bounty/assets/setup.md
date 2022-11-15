@@ -2,6 +2,7 @@
 
 ## Setup 💻
 This section will help you set up your testing environement.
+- [Setting up Parrot OS VMware box for Pentesting](https://thesecmaster.com/install-parrot-os-on-vmware-workstation/)
 - [Setting Up Your Ubuntu Box for Pentest and Bug Bounty Automation](https://www.youtube.com/watch?v=YhUiAH5SIqk) - by NahamSec
 - [Setting up your own web server on a VPS](https://www.linux.com/learn/easy-lamp-server-installation)
 - [Setting up virtualbox + linux](https://linuxconfig.org/how-to-install-kali-linux-on-virtualbox)
