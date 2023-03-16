@@ -84,4 +84,6 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 
 ## Supported By
 
-<a href="https://www.linkedin.com/in/visheshrawal"> </a>
+<tr>
+<td align="center"><a href="https://github.com/visheshrwl"><a href="https://linkedin.com/in/visheshrawal"><img src="" width="300px;" alt=""/><br/><sub><b>Vishesh Rawal</b></sub></a><br />🖋</td>
+</tr>
