@@ -1,149 +1,260 @@
+<a href="https://flutter.dev/">
+  <h1 align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png">
+      <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png">
+    </picture>
+  </h1>
+</a>
 
-Flutter Guide
-==
+Flutter is Google's SDK for crafting beautiful, fast user experiences for
+mobile, web, and desktop from a single codebase. Flutter works with existing
+code, is used by developers and organizations around the world, and is free and
+open source.
 
-[![Front End Developer Desk](https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png)](https://dribbble.com/shots/3577639-Isometric-Developer-Desk)
+## About Flutter
 
-**Pre-requisites**
+Flutter will help you create beautiful, fast apps, with a productive,
+extensible and open development model, whether you're targeting iOS or Android,
+web, Windows, macOS, Linux or embedding it as the UI toolkit for a platform of
+your choice.
 
-- Good understanding of core programming concepts.
-- Comfortable with basic command line actions and familiarity with source code version control systems such as Git.
+## Table of Contents
 
-### Table of Contents
+- [Documentation](#documentations)
+- [Installation](#installation)
+  - [Android Studio For Android](#android-setup)
+  - [Xcode For IOS](#ios-setup)
+  - [Add Flutter To VS Code](#vs-code-setup)
+  - [Android Emulator](#android-emulator)
+  - [IOS Emulator](#ios-emulator)
+- [Create Flutter App](#create-flutter-app)
 
-- [What is Flutter](#what-is-flutter)
-- [Some Good Blogs(Must Read)](#some-good-blogs-(Must-Read))
-- [How to begin](#how-to-begin)
-- [Best Course for beginners (ACM Suggestion)](#best-course-for-beginners-(ACM-Suggestion))
-- [Some sample projects](#some-sample-projects)
-- [Youtube Channels to Subscribe](#youtube-channels-and-playlists)
-- [Best Flutter Blogs and Websites](#best-flutter-blogs-and-websites)
-- [Some Websites to solve doubts](#some-websites-to-solve-doubts)
-- [The Journey has Just Begun](#the-journey-has-just-begun)
+- [Important Packages](#packages)
 
-## What is Flutter
- 
-Flutter is a free and open-source mobile UI framework created by Google and released in May 2017. In a few words, it allows you to create a native mobile application with only one codebase. This means that you can use one programming language and one codebase to create two different apps (for iOS and Android).
-Flutter consists of two important parts:
+  - [Fonts](#fonts)
+  - [Images](#images)
+  - [HTTP(For API Integration)](#api-integration)
+  - [Routing](#routing)
+  - [File, Path Providers ](#files)
+  - [Local Storage](#local-storage)
+  - [WebView](#webview)
+  - [Firebase](#firebase)
+  - [Other Important Packages](#other-important-packages)
 
-- An SDK (Software Development Kit): A collection of tools that are going to help you develop your applications. This includes tools to compile your code into native machine code (code for iOS and Android).
+- [State Management Tools](#state-management)
+- [Popular Courses](#popular-courses)
 
-- A Framework (UI Library based on widgets): A collection of reusable UI elements (buttons, text inputs, sliders, and so on) that you can personalize for your own needs.
+## Documentations
 
-To develop with Flutter, you will use a programming language called Dart. The language was created by Google in October 2011, but it has improved a lot over these past years.
+> [Flutter Documentation](https://docs.flutter.dev/)
 
-If you know a bit of programming, Dart is a typed object programming language. You can compare Dart's syntax to JavaScript.
+> [Firebase Documentaion](https://docs.flutter.dev/data-and-backend/firebase)
 
-Flutter is now the top 11 software repos based on GitHub stars. Moreover, we’ve already seen thousands of Flutter apps being published on app stores. One of the most notable examples is the Xianyu app created by the Alibaba team, used by over 50 million people.
+> [Dart Documentation](https://dart.dev/language)
 
+## Installation
 
+- ### Android Setup
+  1. Install [Android Studio](https://developer.android.com/studio).
+  2. Install [Flutter](https://docs.flutter.dev/get-started/install) File.
+  3. Watch [this](https://www.youtube.com/watch?v=BqHOtlh3Dd4) Video to Setup Flutter on Android Studio For Windows.
+- ### IOS Setup
+  1. Install Latest [Android Studio](https://developer.android.com/studio) and [Flutter](https://docs.flutter.dev/get-started/install) File.
+  2. Watch [this](https://www.youtube.com/watch?v=f09c-nw15K8) video to setup Flutter on Android Studio and XCode.
+- ### VS Code Setup
 
+  Watch [this](https://youtu.be/BqHOtlh3Dd4?t=1835) video to Setup Your Flutter to Vs Code.
 
-## Some Good Blogs (Must Read)
+  #### Important Plugins For VS Code
 
-Here are some good blogs which one can have a look to know about flutter and generate interest in this wonderful tool and make great apps
+  > Flutter
 
-- [Flutter Dev](https://flutter.dev/docs/resources/faq)
-- [Flutter](https://medium.com/flutter)
-- [Flutter Introduction](https://www.tutorialspoint.com/flutter/flutter_introduction.htm)
-- [Reasons Why Flutter is Setting the Trend in Mobile App Development?](https://medium.com/flutter-community/reasons-why-flutter-is-setting-the-trend-in-mobile-app-development-4aa707532fb)
-- [What is Flutter? Here is everything you should know](https://medium.com/@concisesoftware/what-is-flutter-here-is-everything-you-should-know-faed3836253f)
+  > Awesome Flutter Snippets
 
+  > Dart
 
-## How to begin 
+- ### Android Emulator
+  - Watch [this](https://www.youtube.com/watch?v=x_lvdLil0Fk) Video to install ios emulator on Android Studio.
+- ### IOS Emulator
+  - Watch [this](https://youtu.be/f09c-nw15K8?t=330) Video to install ios emulator on XCode.
 
-#### Choose an OS
+## Create Flutter App
 
-One can do flutter development on any OS either it be Windows, macOS, or Linux.
+1. Create a new app by running the below code on terminal
 
-The steps for the same to setup can be found [here](https://flutter.dev/docs/get-started/install)
+```
+flutter create <app_name>
+```
 
-    Setup IDE
+2. Open the generated code on your supported platform.
 
-**Note: This part is for setting up VS Code only and if one wants to use Android Studio only then the above link is sufficient**
+3. Get latest package version by running
 
-Here are some link to help you setup 
+```
+flutter pub get
+```
 
-    Visual Studio Code Flutter Setup
+4. Then run your flutter app by typing the code given below, the list of `available devices` will be shown, select one of the device.
 
-- [For Windows](https://www.youtube.com/watch?v=OlswAb-CV8k)
-- [For MacOS](https://www.youtube.com/watch?v=U4TJ5ITGe5Y)
-- [For Linux (VScode Setup)](https://stackoverflow.com/questions/57693434/how-to-setup-flutter-app-in-vscode-in-ubuntu-and-set-up-emulator)
+> If you don't have any virtual device then you can install virtual devices for [Android Studio](https://www.youtube.com/watch?v=x_lvdLil0Fk) or [XCode](https://youtu.be/f09c-nw15K8?t=330).
 
-## Best Course for beginners (ACM Suggestion)
+```
+flutter run
+```
 
+5. You are good to go now.
 
-    PS: Folllow the order given below for the courses 
-- [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
-- [Flutter & Firebase: Build a Complete App for iOS & Android](https://www.udemy.com/course/flutter-firebase-build-a-complete-app-for-ios-android/)
+## Packages
 
+- ### Fonts
 
-## Some sample projects 
+  - Google Fonts
 
+    ```
+    flutter pub add google_fonts
+    ```
 
-- [Calculator App](https://www.youtube.com/watch?v=eVG5DkPF5x8)
-- [Nutrition App](https://www.youtube.com/watch?v=K1uH_SN4X0w)
-- [Food Ordering App](https://www.youtube.com/watch?v=WBe1orPAKuM)
-- [Chat App](https://www.youtube.com/watch?v=FTju8w4zEno)
+- ### Images
 
-## Youtube Channels and Playlists
+  - #### SVG Images
+    ```
+    flutter pub add flutter_svg
+    ```
+  - #### Cached Network Image
 
-<img alt="Redux Logo" src="https://i.insider.com/59a59a8d79bbfd1d008b601a?width=1200&format=jpeg" width="256px" />
+    - When You want to show the preview of the image without download whole image from network.
 
-**Some Great platforms to learn flutter**
+      ```
+      flutter pub add cached_network_image
+      ```
 
-- [Flutter](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
-- [London App brewery](https://www.youtube.com/channel/UCVD5Vh9LhLBxp3o1vRNyf_w)
-- [Flutter By Google](https://www.youtube.com/watch?v=fq4N0hgOWzU&list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr)
-- [Flutter Tutorial For Beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
-- [Flutter Explained](https://www.youtube.com/user/Lionranger)
-- [Flutter Course (Free Course Camp)](https://www.youtube.com/watch?v=pTJJsmejUOQ)
-- [Flutter Crash Course (Traversy Media)](https://www.youtube.com/watch?v=1gDhl4leEzA)
-- [Dart Programming Tutorial](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
+- ### API Integration
 
-## Best Flutter Blogs and Websites
+  - #### HTTP
 
-<img alt="Redux Logo" src="https://miro.medium.com/max/968/1*uLuWzCXfq2rt1t_TkuLB8A.png" width="256px" />
+    ```
+    flutter pub add http
+    ```
 
-- [Flutter Medium](https://medium.com/flutter)
-- [Flutter- DEV community](https://dev.to/t/flutter)
+    - Import like this in your dart file
 
-## Some Websites to solve doubts
+      ```
+      import 'package:http/http.dart' as http;
+      ```
 
-- [Stack Overflow](https://stackoverflow.com/)
-- [Medium](https://medium.com/)
-- [Flutter Dev](https://flutter.dev/)
+  - #### Dio (Works as http but opitimised provides more features than http )
+    ```
+    flutter pub add dio
+    ```
 
-**P.S. : The best platform for every answer is Google**
+- ### Routing
 
+  - Auto Route
 
-## The Journey has Just begun
+    - You can read the docs to integrate auto_route from here [link](https://pub.dev/packages/auto_route).
 
+      ```
+      flutter pub add auto_route
+      ```
 
-Congratulations on making it this far! Front end development today is hard, but it is also more interesting than before. What we have covered so far will help any new engineer to ACM thapar's Flutter Team to get up to speed with our technologies pretty quickly. There are many more things to be learnt, but building up a solid foundation in the essentials will aid in learning the rest of the technologies.
+- ### Files
 
-## More Readings
+  - #### Path Provider
 
-This part contains a set of few blogs which can come in handy while developing an App
+    - Provides path to local directories to store files and image temporarily into the system.
 
-These are some of tht handpicked blogs which the Flutter Team of ACM Thapar uses to make the app better
+      ```
+      flutter pub add path_provider
+      ```
 
-**Only for those who are keen to work in flutter**
+  - #### Image Picker
 
- - [Convert Pixel Scaling into Percentage](https://medium.com/flutter-community/flutter-effectively-scale-ui-according-to-different-screen-sizes-2cb7c115ea0a)
- - [To Create Custom Shaped UI Elements](https://medium.com/flutter-community/flutter-custom-clipper-28c6d380fdd6)
- - [Using Firebase to create One to One Chat app](https://medium.com/flutter-community/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e)
- - [Push Notification](https://medium.com/@duytq94/flutter-chat-app-extended-push-notification-messages-a26c669f4675)
- - [Some Useful tools of Flutter](https://medium.com/@duytq94/flutter-chat-app-extended-push-notification-messages-a26c669f4675)
- - [Search Functionality in Flutter](https://medium.com/flutter-community/search-as-you-type-in-flutter-e042168e6517)
+    - Used to pick image from the gallery or from your local storage.
 
+      ```
+      flutter pub add image_picker
+      ```
 
+  - #### File Picker
 
- <div align = "center">
+    - Used to pick pick files(png,pdf,pptx,txt,csv,xlsx,etc..) from your local storage.
 
-<h1>ACM THAPAR</h1>
+      ```
+      flutter pub add file_picker
+      ```
 
+- ### Local Storage
+  - #### Shared Preferences
+    - Used to store data (string,int,double,etc..) to the local storage.
+      ```
+      flutter pub add shared_preferences
+      ```
+- ### Webview
+  - #### WebView Flutter
+    - Used to show any html file or any website inside the app.
+      ```
+      flutter pub add webview_flutter.
+      ```
+  - #### Flutter InAppWebview
+    - Used to show any html file or any website inside the app.
+      ```
+      flutter pub add flutter_inappwebview.
+      ```
+- ### Firebase
+  - #### Firebase Core
+    - Used to connect your app to firebase.
+      ```
+      flutter pub add firebase_core.
+      ```
+  - #### Cloud Fireastore
+    - Used to fetch, update or add data to firebase firestore.
+      ```
+      flutter pub add cloud_firestore.
+      ```
+  - #### Firebase Storage
+    - Used to store files to firebase storage.
+      ```
+      flutter pub add firebase_storage.
+      ```
+  - #### Firebase Analytics
+    - An app measurement solution that provides insight on app usage and user engagement on Android and iOS.
+      ```
+      flutter pub add firebase_analytics.
+      ```
+  - #### Firebase Auth
+    - Used to add Auth to your app enabling Android and iOS authentication using passwords, phone numbers and identity providers like Google, Facebook and Twitter, etc.
+      ```
+      flutter pub add firebase_auth.
+      ```
+- ### Other Important Packages
 
-<img height=200px src= "https://github.com/ACM-Thapar/CS_COURSE_GUIDE/blob/master/acm%20logo.png">
+  - #### Google Sign In
 
+    - A secure authentication system for signing in with a Google account on Android and iOS.
 
+      ```
+      flutter pub add google_sign_in
+      ```
+
+  - #### Flutter Toast
+
+    - Used to show toast(floating messages) message in the app.
+
+      ```
+      flutter pub add fluttertoast
+      ```
+
+## State Management
+
+> ### [Riverpod ](https://riverpod.dev/docs/getting_started) (Recommended)
+
+> ### [Provider](https://pub.dev/packages/provider)
+
+> ### [Bloc](https://github.com/felangel/bloc/blob/master/packages/flutter_bloc/README.md)
+
+## Popular Courses
+
+- ### [Flutter & Dart - The Complete Guide By Maximillian (Udemy)](https://www.udemy.com/share/101rfI3@Xj1QdAtofCrhmCIwwGXoMk9jCMveOJbroCpa514kuyNyFf0sU_8sldGcRJX1xck0SA==/)
+
+- ### [Flutter Tutorial For Begineers (Youtube) ](https://www.youtube.com/watch?v=BiOSCpV-lts)
