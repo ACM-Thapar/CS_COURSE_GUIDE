@@ -6,8 +6,8 @@ Guide to Become App Developer
 
 #### Cross Platform App Development
 
-- [Flutter](https://github.com/mmudit01/CS_COURSE_GUIDE/blob/master/App-Development/Flutter/README.md)
-- [React Native](https://github.com/mmudit01/CS_COURSE_GUIDE/blob/master/App-Development/React%20Native/README.md)
+- [Flutter](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/blob/master/App-Development/Flutter/README.md)
+- [React Native](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/blob/master/App-Development/React%20Native/README.md)
 
 ### **For a person completely new to coding environment we prefer [Flutter](https://github.com/mmudit01/CS_COURSE_GUIDE/blob/master/App-Development/Flutter/README.md)**
 
